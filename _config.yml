@@ -6,36 +6,42 @@ theme: jekyll-theme-chirpy
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: es-DO
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: America/Santo_Domingo
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Reflexiones y Descubrimientos # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: El mundo académico a través de mi experiencia y convicciones # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  En 'Reflexiones y Descubrimientos', convergen mi curiosidad científica y mis intereses personales,
+  dando vida a un espacio singular para indagar en las facetas de la Física, la Computación y la Educación Superior,
+  intercaladas con proyectos prácticos ocasionales. Este sitio se erige como un foro de encuentro para colegas,
+  estudiantes y aficionados a la ciencia y la tecnología, convirtiendo cada artículo en una oportunidad para el
+  intercambio de ideas y la cooperación, todo ello bajo el prisma de mi experiencia académica y mis firmes convicciones.
+  Nuestro objetivo es cultivar una comunidad dinámica, dedicada al aprendizaje continuo y a la exploración de nuevas
+  ideas y perspectivas.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://vladimir.do"
 
 github:
-  username: github_username # change to your github username
+  username: vladimirck # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: vladimirck # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Vladimir Pérez
+  email: vladimirck@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
@@ -73,7 +79,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://lh3.googleusercontent.com/a/ACg8ocIYCyI2s-1KFvplsJhcm13HqXO3Jgp55cbD9vlggt28T-U=s576-c-no
 
 # boolean type, the global switch for TOC in posts.
 toc: true
