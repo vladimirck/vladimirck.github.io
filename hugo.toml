@@ -90,7 +90,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
     name = "Temas"
-    url = "temas/"
+    url = "tags/"
     weight = 2
 
 [[menu.main]]
@@ -99,7 +99,7 @@ pygmentsCodefencesGuessSyntax = true
     weight = 3
 
 [taxonomies]
-  tag = 'temas'
+  tag = 'tags'
 
 #En esta sección vamos a habilitar la capacidad de poder escribir expresiones matemáticas usando expresiones de Latex
 [markup]
