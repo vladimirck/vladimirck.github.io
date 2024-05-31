@@ -1,6 +1,7 @@
 baseurl = "https://username.github.io"
-sefaultContentLanguage = "es"
-languageCode = "es-do"
+LanguageCode = "es-DO"
+DefaultContentLanguage = "es"
+
 title = "Multiverso Académico"
 # Using theme as git submodule 
 theme = "beautifulhugo"
@@ -16,12 +17,12 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  #homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   subtitle = "Reflexiones sobre Ciencia, Educación y Gestión Universitaria"
-  mainSections = ["post","posts"]
+  mainSections = ["post"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
-  dateFormat = "2 de marzo de 2006"
+  dateFormat = "02/01/2006"
   commit = false
   rss = true
   comments = true
@@ -31,6 +32,7 @@ pygmentsCodefencesGuessSyntax = true
   socialShare = true
   delayDisqus = true
   showRelatedPosts = true
+  math = true
 #  hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 #  disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
@@ -49,37 +51,37 @@ pygmentsCodefencesGuessSyntax = true
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  name = "Some Person"
-  website = "yourwebsite.com"
-  email = "youremail@domain.com"
-  facebook = "username"
-  github = "username"
-  gitlab = "username"
-  bitbucket = "username"
-  twitter = "username"
-  reddit = "username"
-  linkedin = "username"
-  xing = "username"
-  stackoverflow = "users/XXXXXXX/username"
-  snapchat = "username"
-  instagram = "username"
-  youtube = "user/username" # or channel/channelname
-  soundcloud = "username"
-  spotify = "username"
-  bandcamp = "username"
-  itchio = "username"
-  vk = "username"
-  paypal = "username"
-  telegram = "username"
-  500px = "username"
-  codepen = "username"
-  mastodon = "url"
-  kaggle = "username"
-  weibo = "username"
-  slack = "username"
-  medium = "username"
-  discord = "invite code (https://discord.gg/XXXXXXX)"
-  strava = "userid"
+  name = "Vladimir Pérez"
+  website ="vladimir.do"
+  email = "vladimirck@gmail.com"
+# facebook = "username"
+  github = "vladimirck"
+# gitlab = "username"
+#  bitbucket = "username"
+#  twitter = "username"
+#  reddit = "username"
+#  linkedin = "username"
+#  xing = "username"
+#  stackoverflow = "users/XXXXXXX/username"
+#  snapchat = "username"
+#  instagram = "username"
+#  youtube = "user/username" # or channel/channelname
+#  soundcloud = "username"
+#  spotify = "username"
+#  bandcamp = "username"
+#  itchio = "username"
+#  vk = "username"
+#  paypal = "username"
+#  telegram = "username"
+#  500px = "username"
+#  codepen = "username"
+#  mastodon = "url"
+#  kaggle = "username"
+#  weibo = "username"
+#  slack = "username"
+#  medium = "username"
+#  discord = "invite code (https://discord.gg/XXXXXXX)"
+#  strava = "userid"
 
 [[menu.main]]
     name = "Inicio"
@@ -88,7 +90,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
     name = "Temas"
-    url = "tags/"
+    url = "temas/"
     weight = 2
 
 [[menu.main]]
@@ -97,5 +99,14 @@ pygmentsCodefencesGuessSyntax = true
     weight = 3
 
 [taxonomies]
-  category = 'categories'
-  tag = 'tags'
+  tag = 'temas'
+
+#En esta sección vamos a habilitar la capacidad de poder escribir expresiones matemáticas usando expresiones de Latex
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)'],  ['$', '$']]

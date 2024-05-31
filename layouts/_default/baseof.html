@@ -9,6 +9,9 @@
     {{ block "main" . }}{{ end }}
     {{ partial "footer.html" . }}
     {{ block "footer" . }}{{ end }}
+    {{ if .Param "math" }}
+      {{ partialCached "math.html" . }}
+    {{ end }}
   </body>
 </html>
 

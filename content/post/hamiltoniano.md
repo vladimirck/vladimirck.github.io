@@ -1,12 +1,12 @@
----
-title: "Diferencias entre el Hamiltoniano y la Energía Total"
-author: "Vladimir Pérez"
-type: ""
-date: 2024-05-21
-subtitle: "Una discusión elemental"
-image: ""
-tags: ["example", "Energía", "Langragiano", "Hamiltoniano"]
----
++++
+title = "Diferencias entre el Hamiltoniano y la Energía Total"
+author = "Vladimir Pérez"
+type = ""
+date = 2024-05-21
+subtitle = "Una discusión elemental"
+image = ""
+tags = ["example", "Energía", "Langragiano", "Hamiltoniano"]
++++
 ## Introducción
 
 En el estudio de la física, especialmente en la mecánica clásica y cuántica, dos conceptos fundamentales a menudo confunden a los estudiantes: el Hamiltoniano y la energía total. Aunque estos términos están estrechamente relacionados, no son exactamente equivalentes. Este artículo explora en detalle las diferencias entre el Hamiltoniano y la energía total, ofreciendo una comprensión clara de cada concepto y sus aplicaciones en diferentes contextos físicos.
