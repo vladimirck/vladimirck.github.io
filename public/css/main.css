@@ -410,6 +410,10 @@ footer div.disclaimer {
   footer a {
     color: #AAA;
   }
+
+  footer div.disclaimer {
+    background-color: #444;
+  }
 }
 
 /* --- Post preview --- */

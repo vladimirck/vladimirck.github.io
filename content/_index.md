@@ -1,2 +1,2 @@
-## Front Page Content
-`beautifulhugo` supports content on your front page. Edit `/content/_index.md` to change what appears here. Delete `/content/_index.md` if you don't want any content here.
+## ¡Bienvenido a Multiverso Académico!
+Este es un espacio para compartir y reflexionar sobre la educación superior e ideas sobre Ciencia y Tecnología. En esta páginas vas a encontrar los artículos en orden cronológico inversos.

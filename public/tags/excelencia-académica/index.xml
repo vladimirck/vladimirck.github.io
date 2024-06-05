@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Excelencia Académica on Multiverso Académico</title>
+    <link>http://localhost:1313/tags/excelencia-acad%C3%A9mica/</link>
+    <description>Recent content in Excelencia Académica on Multiverso Académico</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-do</language>
+    <managingEditor>vladimirck&#43;MultiversoAcadémico@gmail.com (Vladimir Pérez)</managingEditor>
+    <webMaster>vladimirck&#43;MultiversoAcadémico@gmail.com (Vladimir Pérez)</webMaster>
+    <lastBuildDate>Mon, 03 Jun 2024 20:46:29 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/excelencia-acad%C3%A9mica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Propuesta de Reforma del Proceso de Inscripción en la UASD</title>
+      <link>http://localhost:1313/post/inscripci%C3%B3n-estudiantes/</link>
+      <pubDate>Mon, 03 Jun 2024 20:46:29 -0400</pubDate><author>vladimirck&#43;MultiversoAcadémico@gmail.com (Vladimir Pérez)</author>
+      <guid>http://localhost:1313/post/inscripci%C3%B3n-estudiantes/</guid>
+      <description>En la Universidad Autónoma de Santo Domingo (UASD), el proceso de inscripción de los estudiantes ha presentado una problemática persistente. Aunque en circunstancias ideales el orden de inscripción no debería ser un factor crítico, la realidad muestra que muchas secciones de cursos se llenan rápidamente, dejando a numerosos estudiantes sin la posibilidad de inscribirse en las asignaturas que necesitan o desean cursar. Esta situación no solo genera frustración, sino que también puede impactar significativamente en el tiempo que tarda un estudiante en graduarse, al verse obligado a retrasar cursos esenciales para su progreso académico.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,4 +1,4 @@
-baseurl = "https://vladimirck.github.io"
+baseurl = "https://vladimir.do"
 languageCode = "es-do"
 DefaultContentLanguage = "es"
 
@@ -18,7 +18,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Para conversar sobre asuntos académicos"
+  subtitle = "Reflexiones sobre Ciencia, Educación y Gestión Universitaria"
   mainSections = ["post","posts"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
@@ -32,9 +32,10 @@ pygmentsCodefencesGuessSyntax = true
   socialShare = true
   delayDisqus = true
   showRelatedPosts = true
+  math = true
 #  hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
-#  disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
+  disclaimerText = "Las opiniones expresadas en este sitio web son exclusivamente mías y no representan necesariamente los puntos de vista de la Universidad Autónoma de Santo Domingo (UASD), de la Facultad de Ciencias, ni del Instituto de Física. Los comentarios y reflexiones aquí publicados son fruto de mis experiencias personales y profesionales, y tienen como objetivo fomentar el diálogo y la reflexión sobre temas de ciencia, educación y gestión universitaria."
 
 #[[Params.bigimg]]
 #  src = "img/triangle.jpg"
@@ -48,16 +49,16 @@ pygmentsCodefencesGuessSyntax = true
 #  src = "img/hexagon.jpg"
 #  desc = "Hexagon"
 
-[Params.Author]
+[author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   name = "Vladimir Pérez"
-  website = "yourwebsite.com"
+#  website = ""
   email = "vladimirck+MultiversoAcadémico@gmail.com"
 #  facebook = "username"
-#  github = "username"
+  github = "vladimirck"
 #  gitlab = "username"
 #  bitbucket = "username"
-#  twitter = "username"
+  twitter = "vladimirck"
 #  reddit = "username"
 #  linkedin = "username"
 #  xing = "username"
@@ -83,18 +84,18 @@ pygmentsCodefencesGuessSyntax = true
 #  strava = "userid"
 
 [[menu.main]]
-    name = "Blog"
+    name = "Inicio"
     url = ""
     weight = 1
 
 
 [[menu.main]]
-    name = "Explorar por tema"
+    name = "Artículos por Palabras Claves"
     url = "tags"
     weight = 2
 
 [[menu.main]]
-    name = "Sobre mí"
+    name = "Acerca de mí"
     url = "page/about/"
     weight = 3
 
