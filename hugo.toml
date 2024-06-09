@@ -13,8 +13,8 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
-#disqusShortname = "XXX"
-#googleAnalytics = "XXX"
+disqusShortname = "vladimir-do"
+googleAnalytics = "G-1RKT2C1BY5"
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
@@ -95,7 +95,7 @@ pygmentsCodefencesGuessSyntax = true
     weight = 2
 
 [[menu.main]]
-    name = "Acerca de mí"
+    name = "Sobre este blog"
     url = "page/about/"
     weight = 3
 

@@ -1,2 +1,2 @@
-## ¡Bienvenido a Multiverso Académico!
-Este es un espacio para compartir y reflexionar sobre la educación superior e ideas sobre Ciencia y Tecnología. En esta páginas vas a encontrar los artículos en orden cronológico inversos.
+
+**¡Bienvenidos a Multiverso Académico!** Este blog es un espacio dedicado a la reflexión y el análisis sobre Ciencia, Tecnología, Educación y Gestión Universitaria. Aquí encontrarás artículos que exploran ideas innovadoras y prácticas actuales en investigación científica, políticas educativas y administración académica. Esperamos que disfrutes de la lectura y te unas a las discusiones, contribuyendo con tus propias perspectivas y experiencias. 

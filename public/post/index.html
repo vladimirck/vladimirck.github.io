@@ -85,7 +85,7 @@
         
           
             <li>
-              <a title="Acerca de mí" href="/page/about/">Acerca de mí</a>
+              <a title="Sobre este blog" href="/page/about/">Sobre este blog</a>
             </li>
           
         
@@ -222,6 +222,48 @@
         
         <div class="posts-list">
           
+            <article class="post-preview">
+    <a href="http://localhost:1313/post/commentario-test/">
+        <h2 class="post-title">Commentario Test</h2>
+        
+        
+        
+    </a>
+
+    <p class="post-meta">
+        <span class="post-meta">
+  
+  
+  <i class="fas fa-calendar"></i>&nbsp;Publicado el 09/06/2024
+  
+  
+    &nbsp;|&nbsp;<i class="fas fa-clock"></i>&nbsp;1&nbsp;minutos
+  
+  
+    &nbsp;|&nbsp;<i class="fas fa-book"></i>&nbsp;8&nbsp;palabras
+  
+  
+    
+      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;Vladimir Pérez
+    
+  
+  
+</span>
+
+
+    </p>
+    <div class="post-entry">
+        
+        <h2 id="una-noticia-rara">Una noticia rara</h2>
+<p>Esto es solo una prueba.</p>
+
+        
+    </div>
+
+    
+
+</article>
+          
         </div>
         
       </div>
@@ -323,6 +365,28 @@
 
 
 
+
+
+
+<script type="text/javascript">
+$(function(){
+  $('#show-comments').on('click', function(){
+    var disqus_shortname = 'vladimir-do';
+      
+    (function() {
+      var disqus = document.createElement('script'); 
+      disqus.type = 'text/javascript'; 
+      disqus.async = true;
+      disqus.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(disqus);
+    })();
+      
+    $(this).hide(); 
+    });
+  });
+      
+</script>
+<script id="dsq-count-scr" src="//vladimir-do.disqus.com/count.js" async></script>
 
 
 

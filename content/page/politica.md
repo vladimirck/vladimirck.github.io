@@ -1,5 +1,5 @@
 ---
-title: Política de Comentarios de Multiverso Académico
+title: Política de Comentarios
 subtitle: ""
 comments: false
 ---
