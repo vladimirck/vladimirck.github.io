@@ -2,7 +2,7 @@
 title = 'Propuesta de Reforma del Proceso de Inscripción en la UASD'
 date = 2024-06-10T07:00:00-04:00
 draft = false
-image = "post/img/2024-06-10-inscripción-estudiantes.jpg" 
+image = "img/2024-06-10-inscripción-estudiantes.jpg" 
 tags = ["UASD", "Proceso de inscripción", "Igualdad de oportunidades", "Reforma UASD", "Excelencia académica", "Índice de Compromiso Académico", "Retiro de materias"]
 +++
 
