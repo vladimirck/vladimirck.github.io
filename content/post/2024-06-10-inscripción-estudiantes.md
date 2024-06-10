@@ -1,9 +1,10 @@
 +++
 title = 'Propuesta de Reforma del Proceso de Inscripción en la UASD'
-date = 2024-06-10T07:00:00-04:00
+date = 2024-06-10
 draft = false
 image = "img/2024-06-10-inscripción-estudiantes.jpg" 
 tags = ["UASD", "Proceso de inscripción", "Igualdad de oportunidades", "Reforma UASD", "Excelencia académica", "Índice de Compromiso Académico", "Retiro de materias"]
+math = false
 +++
 
 En la Universidad Autónoma de Santo Domingo (UASD), el proceso de inscripción de los estudiantes ha presentado problemas persistentes. Aunque en circunstancias ideales el orden de inscripción no debería ser un factor crítico, la realidad muestra que muchas secciones de cursos se llenan rápidamente, dejando a numerosos estudiantes sin la posibilidad de inscribirse en las asignaturas que necesitan o desean cursar. Esta situación no solo genera frustración, sino que también puede impactar significativamente en el tiempo que tarda un estudiante en graduarse, al verse obligado a retrasar cursos esenciales para su progreso académico.

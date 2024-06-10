@@ -49,16 +49,17 @@ googleAnalytics = "G-1RKT2C1BY5"
 #  src = "img/hexagon.jpg"
 #  desc = "Hexagon"
 
+
 [author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   name = "Vladimir Pérez"
-#  website = ""
+  #  website = ""
   email = "vladimirck+MultiversoAcademico@gmail.com"
-#  facebook = "username"
+  twitter = "vladimirck"
   github = "vladimirck"
+#  facebook = "username"
 #  gitlab = "username"
 #  bitbucket = "username"
-  twitter = "vladimirck"
 #  reddit = "username"
 #  linkedin = "username"
 #  xing = "username"
