@@ -15,9 +15,9 @@ En este artículo, nos enfocaremos en analizar y comparar la definición oficial
 
 Es importante promover la comprensión y el uso coherente del concepto de crédito académico, con el fin de garantizar una educación de calidad y promover la movilidad estudiantil entre instituciones y países.
 
-### Análisis de Sistemas Internacionales
+## Análisis de Sistemas Internacionales
 
-#### Sistema Europeo de Transferencia y Acumulación de Créditos (ECTS)
+### Sistema Europeo de Transferencia y Acumulación de Créditos (ECTS)
 
 El Espacio Europeo de Educación Superior (EEES) ha adoptado el Sistema Europeo de Transferencia y Acumulación de Créditos, también conocido como ECTS (siglas en inglés de European Credit Transfer and Accumulation System), como la herramienta principal para lograr una mayor transparencia en el sistema de educación superior a nivel de titulaciones y asignaturas. El ECTS se centra en el tiempo total dedicado al estudio por parte del estudiante, sin especificar necesariamente la cantidad de contacto directo con los docentes.
 
@@ -29,11 +29,11 @@ En el contexto del ECTS, se especifica lo siguiente:
 
 1. Un estudiante a tiempo completo debe cursar anualmente un total de 60 créditos ECTS. Esto equivale a una carga de trabajo estimada de entre 1500 y 1800 horas, incluyendo la asistencia a clases, el estudio individual, las prácticas y la evaluación.
 2. Un plan de estudios del nivel de grado (licenciatura) debe estar compuesto por un total de 240 créditos ECTS, lo que representa una carga de trabajo total de entre 6000 y 7200 horas durante los cuatro años que dura generalmente este tipo de estudios.
-3. Para el nivel técnico superior (técnico superior o diplomatura), se requieren 120 créditos ECTS, lo que implica una carga de trabajo total de entre 3000 y 3600 horas a lo largo de los dos años que suelen durar estos estudios.
+3. Para el nivel técnico superior, se requieren 120 créditos ECTS, lo que implica una carga de trabajo total de entre 3000 y 3600 horas a lo largo de los dos años que suelen durar estos estudios.
 
 Como podemos observar, el sistema ECTS es una iniciativa fundamental para promover la transparencia, la movilidad y el reconocimiento académico en el Espacio Europeo de Educación Superior. Al asignar créditos en función del tiempo total dedicado al estudio, este sistema fomenta un enfoque coherente y comparable de los logros académicos en diferentes instituciones y países.
 
- #### Definición de créditos en los Estados Unidos
+ ### Definición de créditos en los Estados Unidos
 
 En los Estados Unidos, el Departamento de Educación define un crédito (ver [34 CFR 600.2 “Credit hour”](https://www.ecfr.gov/current/title-34/part-600/section-600.2#p-600.2(Credit%20hour))) como una cantidad de trabajo estudiantil establecida por una institución educativa y aprobada por la agencia acreditadora correspondiente o la agencia de aprobación estatal. La definición de crédito en los Estados Unidos es coherente con las prácticas aceptadas en la educación postsecundaria y establece los siguientes criterios:
 
@@ -43,9 +43,11 @@ En los Estados Unidos, el Departamento de Educación define un crédito (ver [34
 
 Es importante resaltar que, según esta definición, existen diferentes versiones de créditos basadas en el tipo de período académico de la institución de enseñanza superior (IES). Un crédito de semestre y un crédito de trimestre no son equivalentes, ya que los primeros representan un período académico más largo que los segundos. Sin embargo, existe una equivalencia entre el crédito de semestre y cuatrimestral, aunque en la práctica pueden presentar ligeras diferencias.
 
+Bajo este esquema, un programa de grado de cuatro años se espera que contengan alrededor de 120 a 130 créditos aproxidamente. Los programas de dos años, llamados grados asociados (Técnico Superior en República Dominicana), tiene una carga de aproximadamente 60 créditos.
+
 En resumen, la definición de créditos en los Estados Unidos se centra en el tiempo dedicado a la instrucción y al trabajo del estudiante, proporciona flexibilidad en la asignación de créditos y permite a las IES considerar diferentes métodos de entrega y medición del trabajo estudiantil. Además, las IES pueden asignar valores de créditos a otras actividades académicas, siempre que sean consistentes con la definición general y las prácticas comúnmente aceptadas en la educación postsecundaria.
 
-#### Sistema de créditos académicos en México: el caso de la UNAM
+### Sistema de créditos académicos en México: el caso de la UNAM
 En México, la regulación nacional en relación a los sistemas de créditos académicos no es uniforme, lo que significa que cada universidad tiene la potestad de establecer sus propios criterios y estándares. Este escenario de falta de uniformidad puede dificultar la comparación entre instituciones, ya que no siempre queda claro cómo se define un crédito en cada caso.
 
 Un ejemplo concreto de esto lo encontramos en la Universidad Nacional Autónoma de México (UNAM), una de las universidades más importantes del país. En el [Reglamento General de Estudios Superiores de la UNAM, artículo 16](https://abogadogeneral.unam.mx/PDFS/COMPENDIO/162-3.pdf), se define el crédito de la siguiente manera:
@@ -62,24 +64,20 @@ Un ejemplo concreto de esto lo encontramos en la Universidad Nacional Autónoma 
 >
 >El semestre lectivo tendrá un mínimo de quince semanas efectivas de clase. Los créditos para cursos de duración menor de un semestre se computarán proporcionalmente a su duración.
 
-Como podemos observar, en la UNAM el crédito se define como una unidad de valor o puntuación de una asignatura y se calcula en función del tipo de actividad que se realiza. En concreto, se distingue entre actividades que requieren estudio o trabajo adicional por parte del alumno, como las clases teóricas o seminarios (en este caso, una hora de clase semana-semestre equivale a dos créditos), y aquellas que no lo requieren, como las prácticas o el trabajo en laboratorio o taller (una hora de clase semana-semestre equivale a un crédito).
+Como podemos observar, en la UNAM, un crédito se define como una medida de valor o calificación de una materia, determinada en base al tipo de actividad académica desarrollada. Existen dos categorías: aquellas que exigen un esfuerzo adicional de estudio o trabajo por parte del estudiante, como las clases teóricas o seminarios (equivalentes a dos créditos por hora de clase a la semana-semestre); y aquellas sin este requisito, como las prácticas en laboratorio o talleres (un crédito por hora de clase a la semana-semestre). Sin embargo, la definición no precisa la cantidad de horas que el estudiante debe dedicar fuera del aula.
 
-Por otro lado, existen casos especiales, como las actividades clínicas y las prácticas para el aprendizaje de música y artes plásticas, que se calculan globalmente en función de su importancia en el plan de estudios y a criterio de los consejos técnicos respectivos.
+En la UNAM se requiere cubrir entre 80 y 250 créditos para un diplomade técnico y entre 300 y 450 créditos para el grado de licenciatura, como se especifica en [Reglamento General de Estudios Técnicos y Profesionales](https://abogadogeneral.unam.mx/PDFS/COMPENDIO/165-1.pdf).
 
-En cualquier caso, es importante señalar que en la UNAM, los créditos siempre se expresan en números enteros y que el semestre lectivo tiene un mínimo de quince semanas efectivas de clase. Además, los créditos para cursos de duración menor de un semestre se computan proporcionalmente a su duración.
+Por último, podemos apreciar que, en cuanto a la proporción entre horas de clase y trabajo autónomo, la definición de crédito de la UNAM se asemeja al sistema europeo; sin embargo, en lo relativo a la distribución del tiempo dedicado a la docencia y al trabajo fuera del aula, está más cercano al modelo estadounidense, dada su énfasis en la actividad de enseñanza. No obstante, el sistema educativo estadounidense especifica la cantidad de horas que el estudiante debe destinar al estudio fuera del aula, mientras que la UNAM no lo hace.
 
-En definitiva, aunque en México no existe una regulación nacional uniforme sobre el cálculo y la definición de créditos académicos, podemos encontrar ejemplos concretos en universidades como la UNAM, donde se ha establecido un sistema propio que permite calcular los créditos en función del tipo de actividad y su importancia en el plan de estudios. Sin embargo, esta falta de uniformidad puede dificultar la comparación entre instituciones y requiere una mayor claridad y estandarización a nivel nacional.
-
-#### Crédito académico en Colombia
- En Colombia, el crédito académico es una unidad de medida utilizada en el sistema educativo superior para evaluar y calcular la carga de trabajo del estudiante en cada asignatura o materia. Según lo establecido por el Ministerio de Educación Nacional de Colombia, un [crédito académico](https://www.mineducacion.gov.co/1621/article-87727.html#:~:text=El%20Cr%C3%A9dito%20Acad%C3%A9mico,de%20ex%C3%A1menes%20finales.) equivale a 48 horas totales de trabajo del estudiante, incluyendo tanto las horas académicas con acompañamiento docente como las demás horas que el estudiante debe emplear en actividades independientes de estudio, prácticas, preparación de exámenes u otras necesarias para alcanzar los objetivos de aprendizaje propuestos.
+### Crédito académico en Colombia
+ En Colombia, el crédito académico es una unidad de medida utilizada en el sistema educativo superior para evaluar y calcular la carga de trabajo del estudiante en cada asignatura o materia. Según lo establecido por el Ministerio de Educación Nacional de Colombia, un [crédito académico](https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Decretos/1261393) equivale a 48 horas totales de trabajo del estudiante, incluyendo tanto las horas académicas con acompañamiento docente como las demás horas que el estudiante debe emplear en actividades independientes de estudio, prácticas, preparación de exámenes u otras necesarias para alcanzar los objetivos de aprendizaje propuestos.
 
 Es importante destacar que este cálculo no incluye las horas dedicadas a la presentación de exámenes finales. De esta forma, el crédito académico permite evaluar de manera objetiva y estandarizada la carga de trabajo del estudiante en cada materia o asignatura, independientemente de su nivel o complejidad.
 
-En general, un programa académico de pregrado está compuesto por un mínimo de 120 créditos académicos, mientras que un programa de posgrado requiere una cantidad variable de créditos, dependiendo del tipo y la duración del programa.
-
 En definitiva, el crédito académico es una unidad de medida fundamental en el sistema educativo colombiano, ya que permite evaluar y calcular la carga de trabajo del estudiante en cada materia o asignatura, así como determinar la duración de los programas académicos ofrecidos por las instituciones de educación superior. Su definición y cálculo se basan en un enfoque integral que considera tanto las horas académicas con acompañamiento docente como las actividades independientes de estudio y otras tareas necesarias para alcanzar los objetivos de aprendizaje propuestos.
 
-### Sistema Argentino de Créditos Académicos Universitarios
+## Sistema Argentino de Créditos Académicos Universitarios
 El Sistema Argentino de Créditos Académicos Universitarios  ([SACAU](https://www.cin.edu.ar/creacion-del-sistema-argentino-de-creditos-academicos-universitarios/)) es un marco establecido en Argentina para regular los créditos académicos a nivel universitario. La unidad básica de medida en este sistema es el Crédito de Referencia del Estudiante ([CRE](https://www.argentina.gob.ar/sites/default/files/infoleg/res2598-393382.pdf)). El objetivo del SACAU es promover la movilidad académica entre instituciones y carreras, así como una educación más flexible y personalizada.
 
 Un crédito académico se define como 25 horas totales de trabajo del estudiante, que incluyen tanto las horas de clase con acompañamiento docente como las horas dedicadas al aprendizaje autónomo y otras tareas relacionadas con la materia.
@@ -88,8 +86,8 @@ El SACAU establece que una carrera de dos años de duración debe estar compuest
 
 El SACAU se basa en el sistema de créditos ECTS, que también utiliza una unidad de medida similar para calcular la carga de trabajo del estudiante en cada materia o asignatura. Sin embargo, a diferencia del crédito ECTS, el CRE establece un valor fijo de 25 horas por crédito académico, lo que facilita la comparabilidad y transferencia de créditos entre instituciones educativas argentinas y extranjeras.
 
-### Análisis del Crédito Académico en la República Dominicana
-#### Definición Oficial
+## Análisis del Crédito Académico en la República Dominicana
+### Definición Oficial
 En la República Dominicana, el Ministerio de Educación Superior, Ciencia y Tecnología (MESCyT) define el crédito académico de una manera que intenta reflejar la dedicación del estudiante en diversas actividades académicas. A continuación, se detalla la definición oficial del crédito según el [artículo 7 del Reglamento para Evaluación y Aprobación de Carreras a Nivel de Grado](https://mescyt.gob.do/wp-content/uploads/2022/02/REGLAMENTO-PARA-EVALUACION-Y-APROBACION-DE-CARRERAS-DE-GRADO.pdf)
 
 > Artículo 7. El crédito constituye la unidad de medida de la dedicación académica del estudiante, requerida para el aprendizaje de una asignatura o materia y consiste en una de las siguientes opciones:
@@ -101,27 +99,33 @@ En la República Dominicana, el Ministerio de Educación Superior, Ciencia y Tec
 >
 > Párrafo II: Se calcula que por cada hora de docencia, tanto teórica como práctica, el estudiante destinará, por lo menos, de 3 a 4 horas al estudio o realización de asignaciones para lograr aprendizajes significativos. 
 
-Como podemos observar, la definición de crédito académico en la República Dominicana es altamente compatible y similar a la definición en los Estados Unidos. Un aspecto positivo es que esta definición no está vinculada al período académico de las instituciones; simplemente establece el número de horas esperadas, como se indica en el Parrafo I. Otro aspecto a destacar es que las actividades y sus tiempos están claramente definida. El si esto está bien o no, es un asunto de flexibilidad o estandarización. Sin embargo, la cantidad de horas que se dedica a varias actividades está en consonancia con el estandar internacional.
+ A partir de la definición proporcionada, nos disponemos a calcular el total de horas que implica un crédito en diferentes tipos de actividades de aprendizaje por parte de los estudiantes.
 
-#### Críticas y Problemas
+En primer lugar, abordaremos la **docencia teórica**. Un crédito en este ámbito equivale a entre 60 y 75 horas de dedicación del estudiante. Si comparamos esta cifra con los estándares internacionales, observamos que es relativamente alta, ya que el mínimo establecido en el sistema estadounidense es de 45 horas y en Europa, un crédito ECTS comprende entre 25 y 30 horas.
 
-Sin embargo, el Parrafo II introduce una variabilidad significativa que se desvía considerablemente de las normas internacionales. Para ilustrar este punto, comparemos el número de horas para un crédito de asignatura práctica (como un laboratorio) y un crédito de actividad de investigación:
-  - Para un crédito de asignatura práctica, hay 30 horas de instrucción y un mínimo de 3 x 30 h = 90 h a 4 x 30 h = 120 h de tiempo de estudio para tareas. Esto resulta en una dedicación estudiantil de 120 a 150 horas.
-  - Para un crédito de investigación, dado que no hay instrucción en este caso, un crédito equivale simplemente a 45 horas.
+En segundo lugar, examinaremos la **docencia práctica o de laboratorio**. Un crédito en este campo equivale a entre 120 y 150 horas. Esta cantidad se deriva de una interpretación rigurosa del párrafo II del artículo mencionado anteriormente, donde se observa que la dedicación del estudiante a actividades de aprendizaje prácticas supone el doble de tiempo respecto a los créditos teóricos.
 
-Este párrafo es problemático por varias razones:
- 1. Introduce una variabilidad significativa y se desvía de las mejores prácticas internacionales. De acuerdo con los estándares de EE. UU., 150 horas de trabajo estudiantil deberían ser al menos tres créditos, y según el estándar europeo, serían seis créditos.
- 2. No está en línea con la naturaleza de las asignaturas prácticas. Normalmente, cuanto más práctica es una asignatura, mayor es la guía que requiere un estudiante y mayores son los recursos necesarios para las actividades de aprendizaje. Esto hace que sea impractico dejar muchas tareas fuera del aula, por lo que tipicamente, una asignatura práctica (como un laboratorio) requiere menos tiempo de dedicación fuera del aula que en el caso de las asignaturas teóricas. Por ejemplo, cuando un estudiante está aprendiendo a utilizar equipo de laboratorio costoso, lo que normalmente hace fuera del aula es trabajar con los datos recopilados durante la práctica de laboratorio en el aula. Tipicamente, el estudiante debe redactar un informe sobre lo que hizo en el aula utilizando los datos recopilados.
+Por último, analizaremos las **actividades de investigación o trabajo independiente**. En este caso, la interpretación es muy directa y simplemente equivale a 45 horas. Esta cantidad se encuentra en consonancia con la noción de créditos en el sistema estadounidense.
 
-### Propuestas de Mejora
-#### Simplificación de la Definición
-Una mejora propuesta para la definición de crédito académico según el Ministerio de Educación Superior, Ciencia y Tecnología (MESCyT) en la República Dominicana implicaría simplificar dicha definición eliminando el Parrafo II y manteniendo intacto el Parágrafo I. La definición revisada de crédito académico se centraría únicamente en la dedicación del estudiante, estableciendo que 45 a 60 horas de compromiso equivalen a un crédito, incluyendo tanto las horas de instrucción con un docente como las horas de dedicación fuera del aula para completar las tareas y actividades asignadas.
+A primera vista, la definición de crédito en República Dominicana podría parecer similar al sistema estadounidense. Sin embargo, tras un análisis más detenido, podemos apreciar que, en general, la carga horaria por crédito es superior en la mayoría de los casos, excepto en lo referente a actividades académicas relacionadas con la investigación, donde se encuentra alineada con los estándares internacionales.
 
-La nueva definición de crédito académico facilitaría la comparabilidad con normas internacionales y eliminaría la variabilidad que introduce el Parrafo II. Además, esta definición se alinearía mejor con la naturaleza de las diversas asignaturas, ya que no crea un desequilibrio entre las horas de dedicación en las aulas y fuera de ellas.
+### Propuestas de mejora para la definición de crédito del MESCyT
 
-Probablemente esta definición podría modificarse para el caso de asignaturas de postgrados, que suelen ser más compleja y ahí si tiene sentido la dedicación de 3 a 4 horas fuera del aula, ya que las tareas de estas asignaturas suelen ser mucho más complejas y avanzadas.
+A continuación, presentamos una serie de recomendaciones encaminadas a mejorar la definición de crédito en la República Dominicana:
 
-#### Beneficios Esperados
+1. **Establecer un rango horario más uniforme**: Actualmente, el número de horas requeridas para obtener un crédito varía significativamente dependiendo del tipo de actividad de aprendizaje. Sería recomendable adoptar una definición que reduzca esta variabilidad y sea más consistente en términos de dedicación horaria.
+2. **Definir claramente las categorías de actividades de aprendizaje**: En la actual definición no queda del todo claro qué tipo de actividades como pasantías, prácticas profesionales, talleres artísticos y otras pertenecen a cada categoría. Para garantizar una mayor claridad en el sistema de créditos, sería conveniente definir con precisión a qué categoría corresponden cada uno de estos tipos de actividades.
+3. **Aumentar la flexibilidad en el diseño curricular**: La definición actual podría resultar más flexible en lo que respecta al diseño curricular de las asignaturas. Sería posible adaptar la cantidad de créditos atendiendo a la naturaleza específica de cada materia, incluso si esto implica desviarse de las convenciones estándar. Esto solo sería aceptable siempre y cuando se justifique debidamente esta desviación de la norma preestablecida.
+
+### Mejora y Simplificación de la Definición de Crédito Académico
+
+Una propuesta de mejora para la definición de crédito académico según el Ministerio de Educación Superior, Ciencia y Tecnología (MESCyT) en la República Dominicana implicaría simplificar y racionalizar la definición actual. La nueva y revisada definición de crédito académico se centraría exclusivamente en la dedicación del estudiante, estableciendo que un rango de entre 45 a 60 horas de compromiso equivaldrían a un crédito. Este tiempo incluiría tanto las horas formales de instrucción con un docente como las horas adicionales requeridas fuera del aula para completar las tareas y actividades asignadas.
+
+La implementación de esta nueva definición de crédito académico facilitaría la comparabilidad y el alineamiento con normas internacionales, eliminando al mismo tiempo la variabilidad introducida por el Parrafo II de la definición actual. Asimismo, una definición más simple se adaptaría mejor a la naturaleza diversa de las asignaturas, sin crear un desequilibrio entre las horas dedicadas en el aula y las necesarias fuera del mismo.
+
+No obstante, es posible que esta definición pueda requerir una modificación específica para el caso de las asignaturas de postgrado. Dada la complejidad y mayor nivel de exigencia académica inherentes a estos programas, podría considerarse un rango más amplio que vaya desde las 3 a las 4 horas fuera del aula por cada crédito de la asignatura. Esto se justificaría en atención a la mayor complejidad y sofisticación de las tareas y actividades propias de los estudios de postgrado.
+
+### Beneficios Esperados
 
 Implementar las sugerencias de mejora en la definición del crédito académico en la República Dominicana traería múltiples beneficios tanto a nivel nacional como internacional. Los principales beneficios esperados son los siguientes:
 
@@ -138,7 +142,7 @@ Implementar las sugerencias de mejora en la definición del crédito académico 
 6. **Adaptabilidad a Diversas Actividades Académicas:** Al mantener un rango fijo de horas de compromiso para cada crédito, se permitiría una mayor adaptabilidad para asignar créditos a diversas actividades académicas, como investigaciones, prácticas y trabajo independiente. Esto aseguraría que todas las actividades relevantes del aprendizaje sean reconocidas y valoradas adecuadamente.
 
 Implementar estas mejoras fortalecería el sistema educativo dominicano, asegurando que los créditos académicos sean una medida precisa y confiable del esfuerzo estudiantil y facilitando la integración con el entorno educativo global.
-### Conclusión
+## Conclusión
 
 El análisis de la definición y aplicación de los créditos académicos revela significativas diferencias y similitudes entre diversos sistemas educativos a nivel mundial. En Europa, el ECTS proporciona un marco estructurado que facilita la movilidad y el reconocimiento académico entre instituciones. Por otro lado, el sistema estadounidense, con su enfoque en el tiempo de instrucción y trabajo independiente del estudiante, ofrece flexibilidad en la asignación de créditos. En América Latina, países como México, Colombia y Argentina han desarrollado sus propios sistemas, aunque no siempre con la uniformidad deseada.
 
