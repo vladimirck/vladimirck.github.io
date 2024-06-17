@@ -103,23 +103,31 @@ En la República Dominicana, el Ministerio de Educación Superior, Ciencia y Tec
 
 En primer lugar, abordaremos la **docencia teórica**. Un crédito en este ámbito equivale a entre 60 y 75 horas de dedicación del estudiante. Si comparamos esta cifra con los estándares internacionales, observamos que es relativamente alta, ya que el mínimo establecido en el sistema estadounidense es de 45 horas y en Europa, un crédito ECTS comprende entre 25 y 30 horas.
 
-En segundo lugar, examinaremos la **docencia práctica o de laboratorio**. Un crédito en este campo equivale a entre 120 y 150 horas. Esta cantidad se deriva de una interpretación rigurosa del párrafo II del artículo mencionado anteriormente, donde se observa que la dedicación del estudiante a actividades de aprendizaje prácticas supone el doble de tiempo respecto a los créditos teóricos.
+En segundo lugar, examinaremos la **docencia práctica o de laboratorio**. Un crédito en este campo equivale a entre 120 y 150 horas. Esta cantidad se deriva de una interpretación rigurosa del párrafo II del artículo mencionado anteriormente, donde se observa que la dedicación del estudiante a actividades de aprendizaje prácticas es extremadamente alta en comparación con el estándar internacional.
 
 Por último, analizaremos las **actividades de investigación o trabajo independiente**. En este caso, la interpretación es muy directa y simplemente equivale a 45 horas. Esta cantidad se encuentra en consonancia con la noción de créditos en el sistema estadounidense.
 
 A primera vista, la definición de crédito en República Dominicana podría parecer similar al sistema estadounidense. Sin embargo, tras un análisis más detenido, podemos apreciar que, en general, la carga horaria por crédito es superior en la mayoría de los casos, excepto en lo referente a actividades académicas relacionadas con la investigación, donde se encuentra alineada con los estándares internacionales.
 
-### Propuestas de mejora para la definición de crédito del MESCyT
+### Aspectos a mejorar de la definición de crédito del MESCyT
 
-A continuación, presentamos una serie de recomendaciones encaminadas a mejorar la definición de crédito en la República Dominicana:
+A continuación, presentamos algunas observaciones para facilitar la mejora de la definición de crédito en la República Dominicana:
 
 1. **Establecer un rango horario más uniforme**: Actualmente, el número de horas requeridas para obtener un crédito varía significativamente dependiendo del tipo de actividad de aprendizaje. Sería recomendable adoptar una definición que reduzca esta variabilidad y sea más consistente en términos de dedicación horaria.
-2. **Definir claramente las categorías de actividades de aprendizaje**: En la actual definición no queda del todo claro qué tipo de actividades como pasantías, prácticas profesionales, talleres artísticos y otras pertenecen a cada categoría. Para garantizar una mayor claridad en el sistema de créditos, sería conveniente definir con precisión a qué categoría corresponden cada uno de estos tipos de actividades.
+2. **Definir claramente las categorías de actividades de aprendizaje**: En la actual definición no queda del todo claro qué tipo de actividades como pasantías, prácticas profesionales, talleres artísticos y otras pertenecen a cada categoría. Para garantizar una mayor claridad en el sistema de créditos, sería conveniente definir con precisión a qué categoría corresponden cada uno de estos tipos de actividades y establecer criterios objetivos que permitan a las IES clasificar apropiadamente las actividades de aprendizajes.
 3. **Aumentar la flexibilidad en el diseño curricular**: La definición actual podría resultar más flexible en lo que respecta al diseño curricular de las asignaturas. Sería posible adaptar la cantidad de créditos atendiendo a la naturaleza específica de cada materia, incluso si esto implica desviarse de las convenciones estándar. Esto solo sería aceptable siempre y cuando se justifique debidamente esta desviación de la norma preestablecida.
 
-### Mejora y Simplificación de la Definición de Crédito Académico
+### Una propuesta concreta de definición de crédito 
 
 Una propuesta de mejora para la definición de crédito académico según el Ministerio de Educación Superior, Ciencia y Tecnología (MESCyT) en la República Dominicana implicaría simplificar y racionalizar la definición actual. La nueva y revisada definición de crédito académico se centraría exclusivamente en la dedicación del estudiante, estableciendo que un rango de entre 45 a 60 horas de compromiso equivaldrían a un crédito. Este tiempo incluiría tanto las horas formales de instrucción con un docente como las horas adicionales requeridas fuera del aula para completar las tareas y actividades asignadas.
+
+Con el objetivo de proveer mayor claridad, a continuación detallamos una propuesta de distribución para las tres categorías de asignaturas típicas en la educación superior:
+
+- Para una materia teórica con un crédito, se imparten 15 horas de clase y el alumno dedica entre 30 y 45 horas adicionales a realizar tareas y actividades fuera del aula.
+- Para una materia práctica o de laboratorio con un crédito, se imparten 30 horas de clase y el estudiante invierte entre 15 y 30 horas en trabajos relacionados fuera del aula.
+- Para actividades de investigación, pasantías, estudios independientes u otras similares con un crédito, el alumno se dedica estrictamente al rango de tiempo recomendado, es decir, entre 45 y 60 horas de trabajo.
+
+Cabe mencionar que esta propuesta es flexible y puede ser ajustada según las necesidades específicas de cada institución o programa educativo.
 
 La implementación de esta nueva definición de crédito académico facilitaría la comparabilidad y el alineamiento con normas internacionales, eliminando al mismo tiempo la variabilidad introducida por el Parrafo II de la definición actual. Asimismo, una definición más simple se adaptaría mejor a la naturaleza diversa de las asignaturas, sin crear un desequilibrio entre las horas dedicadas en el aula y las necesarias fuera del mismo.
 
