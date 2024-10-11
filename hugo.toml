@@ -99,3 +99,9 @@ googleAnalytics = "G-1RKT2C1BY5"
     name = "Sobre este blog"
     url = "page/about/"
     weight = 3
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
