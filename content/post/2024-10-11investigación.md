@@ -42,16 +42,16 @@ La pregunta sobre si aumentar la inversión en Investigación y Desarrollo (I+D)
 
 Para que la República Dominicana tenga una política de inversión en I+D que realmente beneficie al país, es crucial priorizar varias estrategias generales:
 
-1. [Establecer una Política Coherente de I+D para las Universidades](#establecer-una-política-coherente-de-i+d-para-las-universidades).  
-2. [Establecer Metas Medibles para Maximizar el Impacto de la Inversión en I+D](#establecer-metas-medibles-para-maximizar-el-impacto-de-la-inversión-en-i+d).  
-3. [Fortalecer las Investigaciones Básicas y Aplicadas](#fortalecer-las-investigaciones-básicas-y-aplicadas).  
-4. [Fortalecer las Investigaciones para el desarrollo de productos y servicios (Desarrollo Experimental)](#fortalecer-las-investigaciones-para-el-desarrollo-de-productos-y-servicios-\(desarrollo-experimental\)).  
-5. [Establecer Convocatorias de I+D Sectoriales](#establecer-convocatorias-de-i+d-sectoriales).  
-6. [Incentivar la Inversión en I+D por parte de las Empresas](#incentivar-la-inversión-en-i+d-por-parte-de-las-empresas).
+1. [Establecer una Política Coherente de I+D para las Universidades](#politica).  
+2. [Establecer Metas Medibles para Maximizar el Impacto de la Inversión en I+D](#metas).  
+3. [Fortalecer las Investigaciones Básicas y Aplicadas](#inves-bas-ap).  
+4. [Fortalecer las Investigaciones para el desarrollo de productos y servicios (Desarrollo Experimental)](#desarrollo-exp).  
+5. [Establecer Convocatorias de I+D Sectoriales](#inv-sectorial).  
+6. [Incentivar la Inversión en I+D por parte de las Empresas](#inv-empresas).
 
 Estas estrategias no solo mejorarán la calidad y relevancia de la investigación, sino que también asegurarán que los recursos se utilicen de manera eficiente y efectiva, beneficiando a toda la sociedad dominicana.
 
-### **Establecer una Política Coherente de I+D para las Universidades** {#establecer-una-política-coherente-de-i+d-para-las-universidades}
+### **Establecer una Política Coherente de I+D para las Universidades**{#politica}
 
 Para maximizar la efectividad y el impacto de los proyectos de investigación, es fundamental establecer una política coherente de I+D que guíe la asignación de financiamiento a las IES. Esta política debe considerar varios factores clave para asegurar que la inversión se aproveche de manera adecuada y sostenible.
 
@@ -69,7 +69,7 @@ Incluso si la investigación genera una cantidad sustancial de artículos o pate
 
 Por lo tanto, es crucial que las políticas de I+D promuevan no solo la realización de proyectos de investigación, sino también el desarrollo de una infraestructura educativa robusta que permita la transferencia efectiva del conocimiento a futuras generaciones de investigadores y profesionales. Esto garantizará que los esfuerzos de I+D no solo produzcan resultados académicos, sino que también contribuyan al desarrollo económico y social del país a largo plazo.
 
-### **Establecer Metas Medibles para Maximizar el Impacto de la Inversión en I+D** {#establecer-metas-medibles-para-maximizar-el-impacto-de-la-inversión-en-i+d}
+### **Establecer Metas Medibles para Maximizar el Impacto de la Inversión en I+D** {#metas}
 
 Para asegurar que los proyectos de investigación y desarrollo (I+D) tengan un impacto significativo, es fundamental establecer metas medibles no solo para los productos finales, sino también para las acciones y productos intermedios. Este enfoque integral garantiza que se mantenga el foco en la finalidad de la inversión, que es promover el desarrollo del país.
 
@@ -94,7 +94,7 @@ Es necesario establecer programas de seguimiento de los estudiantes que particip
 
 Es necesario establecer mecanismos para prevenir la manipulación de los resultados de investigación, como el uso de «molinos de artículos» (*paper mills* en inglés), que son esquemas para realizar una gran cantidad de publicaciones sin aportar valor significativo al país o a la institución. Este tipo de distorsiones crea problemas porque todo parece funcionar bien, pero la inversión no se traduce en beneficios tangibles para el país.
 
-### **Fortalecer las Investigaciones Básicas y Aplicadas** {#fortalecer-las-investigaciones-básicas-y-aplicadas}
+### **Fortalecer las Investigaciones Básicas y Aplicadas** {#inves-bas-ap}
 
 Fortalecer los distintos tipos de investigaciones básicas y aplicadas es un objetivo fundamental para cualquier institución comprometida con el desarrollo sostenible. Este enfoque integral no solo impulsa el avance científico, sino que también promueve la innovación y el progreso tecnológico. Esta estrategia está perfectamente alineada con lo que ha estado llevando a cabo FONDOCyT hasta la fecha, consolidando una base sólida para futuras iniciativas de investigación y desarrollo (I+D).
 
@@ -106,7 +106,7 @@ Fortalecer los distintos tipos de investigaciones básicas y aplicadas es un obj
 
 **Construyendo una Economía del Conocimiento.** Para construir una economía del conocimiento verdaderamente robusta, es imperativo no solo fomentar la investigación aplicada, sino también invertir en la investigación básica. Esta doble vertiente asegura que las soluciones innovadoras estén fundamentadas en un profundo entendimiento científico y técnico, lo cual es esencial para enfrentar los complejos desafíos del siglo XXI.
 
-### **Fortalecer las Investigaciones para el Desarrollo de Productos y Servicios (Desarrollo Experimental)** {#fortalecer-las-investigaciones-para-el-desarrollo-de-productos-y-servicios-(desarrollo-experimental)}
+### **Fortalecer las Investigaciones para el Desarrollo de Productos y Servicios (Desarrollo Experimental)** {#desarrollo-exp}
 
 Fortalecer las investigaciones de desarrollo experimental y la innovación es una prioridad estratégica para cualquier nación que aspire a alcanzar un crecimiento sostenible y un progreso tecnológico significativo. Este tipo de investigaciones, que generalmente culminan en resultados cercanos a la realización de productos comercializables, son fundamentales para traducir ideas teóricas en soluciones prácticas y viables. Se espera que el sector privado sea el líder en este tipo de investigaciones, dada su capacidad para identificar oportunidades de mercado, operar con eficiencia y responder rápidamente a las necesidades del consumidor.
 
@@ -124,7 +124,7 @@ Históricamente, muchas naciones han alcanzado éxitos significativos en la inno
 
 Para lograr este equilibrio, es importante abordar una serie de desafíos. Entre ellos se encuentran la necesidad de políticas claras y estables que promuevan la innovación, así como la creación de mecanismos eficientes para la transferencia de tecnología entre el sector público y privado. Además, es crucial fomentar una cultura de emprendimiento y riesgo, donde las fallas sean vistas como oportunidades de aprendizaje en lugar de fracasos irreversibles.
 
-### **Establecer Convocatorias de I+D Sectoriales** {#establecer-convocatorias-de-i+d-sectoriales}
+### **Establecer Convocatorias de I+D Sectoriales** {#inv-sectorial}
 
 Establecer convocatorias para abordar problemas nacionales en sectores estratégicos es una iniciativa crucial para impulsar el desarrollo y mejorar el bienestar de la Nación. Estas convocatorias, lideradas por los ministerios encargados de dichos sectores, tienen como objetivo movilizar recursos y talento para encontrar soluciones innovadoras y efectivas a los desafíos más urgentes del país.
 
@@ -132,7 +132,7 @@ La dirección de estas convocatorias por parte de los ministerios correspondient
 
 El Ministerio de Energía y Minas podría convocar para proyectos de para encontrar soluciones energéticas específicas para regiones en nuestro país, o desarrollar métodos de cómo eliminar o aprovechar desechos derivados de las actividades mineras en el país.
 
-### **Incentivar la Inversión en I+D por parte de las Empresas** {#incentivar-la-inversión-en-i+d-por-parte-de-las-empresas}
+### **Incentivar la Inversión en I+D por parte de las Empresas** {#inv-empresas}
 
 Para fomentar una cultura de innovación y promover el desarrollo tecnológico, es esencial incentivar a las empresas a invertir en investigación y desarrollo (I+D). Existen diversas estrategias que pueden ser implementadas para lograr este objetivo:
 
