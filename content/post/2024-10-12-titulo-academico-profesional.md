@@ -9,9 +9,9 @@ tags = ['Títulos Académicos', 'Títulos Profesionales', 'Educación Superior',
 
 En la actualidad, existe una confusión significativa entre títulos académicos y profesionales que no solo afecta la percepción pública sobre las competencias de los profesionales, sino que también frena el avance de nuestra sociedad. En este artículo, exploraremos las diferencias fundamentales entre títulos académicos y profesionales, analizaremos los problemas que surgen de la confusión entre éstos títulos en el marco regulatorio y propondremos soluciones para establecer un sistema más claro y estructurado.
 
-### Los Títulos Académicos y Profesionales
+## Los Títulos Académicos y Profesionales
 
-#### Títulos Académicos
+### Títulos Académicos
 
 Un título académico es aquel que se otorga por centros de estudios superiores luego de completar ciertos requisitos específicos. Estos títulos certifican que el individuo ha adquirido un conjunto de conocimientos y habilidades en un campo particular, pero no necesariamente indican la capacidad para ejercer una profesión. Los títulos académicos son fundamentales para el avance del conocimiento y la investigación. Proporcionan una base sólida de teoría y metodología que es esencial para muchas profesiones. Además, los títulos académicos pueden abrir puertas a oportunidades de estudio avanzado y de investigación.
 
@@ -27,7 +27,7 @@ La fuente principal de las confusiones entre títulos académicos y profesionale
 
 Una limitación de los títulos académicos es que no siempre garantizan plenamente la capacidad para ejercer una profesión de manera efectiva. La experiencia práctica y las habilidades específicas del campo profesional son igualmente importantes y, en muchos casos, requieren un entrenamiento adicional. Existen numerosos procedimientos muy particulares en diversas profesiones que se adquieren en el ejercicio profesional y no se espera que se adquieran en el ambiente académico.
 
-#### Títulos Profesionales
+### Títulos Profesionales
 
 Los títulos profesionales se obtienen a través de la experiencia práctica en el campo y pueden o no requerir títulos académicos. Estos títulos certifican que el individuo tiene las competencias y habilidades necesarias para desempeñar una profesión de manera efectiva y ética.
 
@@ -35,7 +35,7 @@ Los títulos profesionales garantizan que el individuo tiene las habilidades pr�
 
 Una limitación de los títulos profesionales es que podrían no ser suficientes para roles que requieren conocimientos teóricos avanzados o investigación académica. En algunos casos, es necesario combinar la experiencia práctica con una formación académica rigurosa.
 
-### Confusión de Titulación en el Marco Regulatorio
+## Confusión de Titulación en el Marco Regulatorio
 
 Lamentablemente, dentro del marco regulatorio del Ministerio de Educación Superior, Ciencia y Tecnología (MESCyT), se confunden a menudo los títulos académicos con los profesionales. Esto puede llevar a una falta de claridad y precisión en la nomenclatura de los títulos, lo que a su vez causa confusión tanto para los estudiantes como para el público en general. Por ejemplo, según el [artículo 8 del Reglamento para la Evaluación y Aprobación de las Carreras de Grado](https://mescyt.gob.do/wp-content/uploads/2022/02/REGLAMENTO-PARA-EVALUACION-Y-APROBACION-DE-CARRERAS-DE-GRADO.pdf),  que dice textualmente:  
 > Artículo 8\. La determinación de la carrera de grado, en el Sistema Nacional de Educación Superior,  Ciencia y Tecnología, se fundamenta en la Ley 139-01, que en su Art. 23 específica los niveles de formación de la educación superior y entre ellos establece, en el literal b) Un nivel de grado que otorga los títulos de *licenciado, arquitecto, ingeniero, médico y otros equivalentes* (énfasis añadido).
@@ -49,9 +49,9 @@ La confusión en el marco regulatorio tiene varias consecuencias negativas:
 3. **Desmotivación e incertidumbre en los estudiantes**: Los estudiantes pueden sentirse desmotivados si no están seguros de cuáles son los pasos necesarios para convertirse en profesionales reconocidos y respetados en sus campos de estudio.  
 4. **Incertidumbre del público general**: La confusión sobre los títulos puede llevar a una incertidumbre generalizada por parte del público, lo que puede afectar la reputación de las instituciones educativas y de los profesionales en general. Tener el título de Ingeniero Civil, por ejemplo, no dice mucho del nivel de experiencia del profesional ni del nivel de sus conocimientos. Ese papel lo puede desempeñar en los títulos profesionales.
 
-### Propuesta de Solución
+## Propuesta de Solución
 
-#### Sistema de Nomenclatura Estructurado
+### Sistema de Nomenclatura Estructurado
 
 Para abordar esta confusión, se podría proponer la implementación de un sistema de nomenclatura más estructurado y claro. Por ejemplo:
 
@@ -66,15 +66,15 @@ En este ejemplo queda claro tres cosas:
 
 Esta forma de nombrar los títulos académicos hace que sea más claro y se resiste a la creación de percepciones incorrectas sobre las competencias y funciones de ambos profesionales. En algunos lugares, como la Universidad de Chile, se observa que [especifican el grado y el título profesional](https://ingenieria.uchile.cl/carreras/4969/ingenieria-civil#:~:text=Grado%20Acad%C3%A9mico,Ingeniero/a%20Civil).
 
-### ¿Quién da el título de ingeniero?
+## ¿Quién da el título de ingeniero?
 
 En la República Dominicana, la institución que *debería* otorgar el título profesional de ingeniero es el Colegio Dominicano de Ingenieros, Arquitectos y Agrimensores (CODIA). Técnicamente, esta es la entidad encargada del proceso de obtención a lo equivalente a una licencia de ejercicio profesional (no confundir con el título académico de licenciado), esto parece ser una [simple formalidad](https://www.codia.org.do/index.php/servicios/solicitud-de-colegiatura-y-exequatur). El Exequátur, que es la figura legal equivalente a la licencia de ejercicio profesional, es otorgado por el Presidente de la República (¿por qué el Presidente debe estar involucrado en esto?).
 
-#### Problemas del Sistema Actual
+### Problemas del Sistema Actual
 
 Es mi opinión que el CODIA no está cumpliendo con una función fundamental, que es tener un sistema de títulos profesionales que reconozca los logros y trayectorias de sus miembros. La falta de reconocimiento adecuado de los profesionales de la ingeniería puede ser una de las razones por las cuales esta profesión no tiene la mayor relevancia y avance que debería.
 
-#### Beneficios de un Sistema Estructurado
+### Beneficios de un Sistema Estructurado
 
 Un sistema de títulos profesionales bien estructurado puede:
 
@@ -83,13 +83,11 @@ Un sistema de títulos profesionales bien estructurado puede:
 - **Aumentar la relevancia profesional**: Elevar el estatus y la relevancia de la profesión de la ingeniería, tanto a nivel nacional como internacional.  
 - **Mejorar la comunicación**: Facilitar la comunicación entre los ingenieros y con el público en general, clarificando las competencias y habilidades asociadas con cada título.
 
-#### Comparativa Internacional
-
-##### Estados Unidos e Irlanda
+### Comparativa Internacional
 
 Para ilustrar cómo se ha implementado esto en otros países, vamos a analizar los modelos de Estados Unidos e Irlanda.
 
-###### Sociedad Nacional de Profesionales de la Ingeniería (NSPE)
+#### Sociedad Nacional de Profesionales de la Ingeniería (NSPE)
 
 En Estados Unidos, para convertirse en un ingeniero profesional, luego de haber obtenido el grado equivalente a Licenciatura en Ingeniería, se deben seguir varios pasos estructurados:
 
@@ -100,7 +98,7 @@ En Estados Unidos, para convertirse en un ingeniero profesional, luego de haber 
 
 En Estados Unidos, tener el título de Ingeniero Profesional es requerido para participar en licitaciones de obras y legalmente se requiere para un sin número de funciones dentro de las empresas y en el estado, lo cual no es posible lograr con tener solo el título académico de “Licenciado en Ingeniería en …”.
 
-###### Ingenieros de Irlanda
+#### Ingenieros de Irlanda
 
 Ingenieros de Irlanda tiene una serie de [títulos profesionales](https://www.engineersireland.ie/Professionals/Membership/Registered-professional-titles) más progresivos. Para la obtención del título se requiere haber obtenido el grado equivalente a Técnico Superior y para el título de Ingeniero Asociado, se debe haber obtenido un grado equivalente a Licenciatura en Ingeniería. A continuación, una descripción de cada título profesional.
 
