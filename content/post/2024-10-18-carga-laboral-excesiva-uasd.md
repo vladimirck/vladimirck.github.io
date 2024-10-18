@@ -11,7 +11,7 @@ La Universidad Autónoma de Santo Domingo (UASD) es una institución educativa e
 
 ## Descripción y Análisis de la Problemática Actual
 
-Un profesor a tiempo completo en la Universidad Autónoma de Santo Domingo (UASD) debe dedicar 40 créditos (CR) académicos para cumplir con su carga laboral. En la UASD, todas las funciones que realiza un profesor se miden en créditos, una práctica común heredada desde los fundamentos del sistema educativo adoptado hace años.
+Un profesor a tiempo completo en la Universidad Autónoma de Santo Domingo (UASD) tiene un régimen de tiempo completo de 40 créditos (CR) académicos para cumplir con su carga laboral. En la UASD, todas las funciones que realiza un profesor se miden en créditos, una práctica común heredada desde los fundamentos del sistema educativo adoptado hace años.
 
 Para entender la problemática actual, es crucial comprender que un [crédito académico](https://vladimir.do/post/2024-06-17-est%C3%A1ndares-de-cr%C3%A9ditos-acad%C3%A9micos/) para un profesor equivale a tres horas de labor por semana en el período académico semestral. Si el crédito es teórico, esto implica una hora de contacto directo con los estudiantes y dos horas adicionales dedicadas a otras actividades relacionadas, como preparación de clases, corrección de exámenes y de tareas y seguimiento del desempeño estudiantil. Estas dos horas son una estimación, ya que la complejidad de la asignatura puede variar; en muchos casos, las actividades complementarias pueden requerir hasta tres o cuatro horas adicionales si la materia es particularmente compleja o por la cantidad de estudiantes que hay en la misma.
 
