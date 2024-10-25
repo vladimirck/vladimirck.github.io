@@ -1,0 +1,97 @@
++++
+title = 'Reinventando la Contratación del Personal Académico en la UASD'
+subtitle = 'Cómo Asegurar un Personal Académico de Excelencia'
+date = 2024-10-25T15:00:00-04:00
+draft = false
+image = "img/2024-10-24-contratacion-uasd.md.jpg" 
+tags = ["UASD", "Excelencia Académica", "Educación Superior", "Endogamia académica", "Docencia", "Investigación", "Concurso de Oposición"]
++++
+La Universidad Autónoma de Santo Domingo (UASD) es la principal institución de educación superior de la República Dominicana, en la que asisten miles de estudiantes para formarse como profesionales a partir de una dedicada plantilla de profesores. En esta oportunidad vamos a dar una mirada a un tema que es igual de fundamental que de complejo: la selección y contratación del personal académico. Este procedimiento, aunque riguroso y lleno de controles, no está exento de problemas prácticos y de visión que pueden limitar el desarrollo integral de la institución. ¿Es posible que un sistema diseñado para asegurar la calidad educativa también esté inhibiendo la innovación y la flexibilidad? En este artículo, exploramos los desafíos inherentes al procedimiento actual y propondremos mejoras que podrían transformar el futuro de la UASD.
+
+## Descripción del sistema actual
+
+El procedimiento para la contratación del personal académico de carrera en la Universidad Autónoma de Santo Domingo (UASD) es un mecanismo meticuloso diseñado para garantizar la integridad y calidad del proceso. Este sistema incluye una serie de controles estrictos que buscan prevenir cualquier manipulación indebida. Si una unidad académica desea contratar profesores de carrera, debe seguir un protocolo detallado y riguroso. A continuación, se describe el proceso paso a paso:
+
+1. **Solicitud de concurso al Consejo Universitario**: La primera etapa consiste en presentar una solicitud formal al Consejo Universitario para realizar un concurso externo. En esta solicitud, la unidad debe enumerar las asignaturas para las cuales necesita personal y demostrar que ha cumplido con los requisitos previos. Esto incluye haber realizado previamente un concurso interno para asegurarse de que no hay personal ya contratado que pueda satisfacer esa demanda.  
+     
+2. **Convocatoria y llamado a Concurso**: Una vez que la solicitud es aprobada por el Consejo Universitario, la Vicerrectoría Docente procede a hacer el llamado oficial al concurso a través de medios nacionales y de página web oficial de la UASD. Este anuncio da un plazo de 30 días para que todos los candidatos interesados depositen sus documentaciones en la Dirección de Recursos Humanos Académico (DIRHA).  
+     
+3. **Verificación de las documentaciones presentadas por los participantes**: La DIRHA se encarga de revisar las documentaciones recibidas para asegurarse de que todos los candidatos cumplen con los requerimientos específicos de formación académica establecidos por cada escuela.  
+     
+4. **Envío de documentos a las escuelas correspondientes**: Una vez verificados, la DIRHA envía todos los documentos pertinentes a las respectivas escuelas. Cada escuela ejecuta el concurso utilizando estos candidatos preseleccionados, siguiendo las normas y procedimiento establecido en un [reglamento](https://transparencia.uasd.edu.do/sites/default/files/reglamento_para_el_ingreso_del_personal_docente_uasd_0.pdf) para tales fines.  
+     
+5. **Resultado del concurso**: Los ganadores del concurso son colocados en una lista de elegibles, la cual es utilizada por cada escuela para seleccionar a los candidatos según el orden en que aparecen, las necesidades específicas de la escuela y la disponibilidad de los candidatos.
+
+Este sistema cuenta con una serie de controles robustos que aseguran un proceso de contratación transparente y riguroso. Sin embargo, como veremos más adelante, estos mismos controles pueden presentar desafíos filosóficos y prácticos que limitan la flexibilidad y el desarrollo integral de la institución.
+
+## ¿Cuál es el problema?
+
+El problema fundamental del procedimiento de contratación en la UASD radica en su naturaleza filosófica. Si la misión de la Universidad Autónoma de Santo Domingo (UASD) se limitara solo a la docencia, este método podría considerarse efectivo y riguroso. Sin embargo, la UASD tiene tres misiones fundamentales y equilibradas: docencia, investigación y extensión. Es precisamente en las áreas de investigación y extensión donde este procedimiento muestra sus debilidades.
+
+Uno de los principales problemas es la falta de claridad sobre los principios que se buscan lograr con este sistema. Aunque es correcto afirmar que el proceso es riguroso, también es extremadamente rígido, lo que limita significativamente la flexibilidad de las escuelas para seleccionar a su personal acdémico. Por ejemplo, si una unidad académica desea crear una nueva carrera para satisfacer una demanda prioritaria, se enfrenta a un dilema: ¿cómo contratar profesores para una asignatura que aún no existe? Este problema es similar al de la gallina y el huevo; en otras palabras, para contratar personal, primero necesitas tener las asignaturas definidas, pero para definir las asignaturas, necesitas tener al personal. Esto añade pasos innecesarios a un problema que debería tener una solución más sencilla y directa.
+
+Otro desafío importante es la dificultad de encontrar el perfil adecuado para las necesidades específicas de una escuela cuando se contrata para impartir ciertas asignaturas. Por ejemplo, si se abre un concurso para una asignatura del Ciclo Básico, como matemática básica, hay una amplia gama de profesionales que podrían ser aptos para enseñar, incluyendo ingenieros, físicos y matemáticos. Para acotar esta variedad, se introducen controles adicionales basados en titulaciones, lo cual abre otra caja de pandora. La realidad es que las titulaciones de un profesional no son suficientes para garantizar la calidad y el nivel de conocimiento requerido para docentes de alto rendimiento.
+
+Si la intención fuera simplemente mantener una enseñanza básica, este sistema podría funcionar adecuadamente. La discrepancia radica en que la UASD no se limita a la docencia; también debe fomentar la investigación y la extensión. Por lo tanto, el profesional que busca la universidad debe tener algo más que conocimientos mínimos, lo cual es todo lo que aseguran las titulaciones. Aunque estas son importantes, el énfasis excesivo en ellas puede ser un lastre para el desarrollo integral de la academia en todas sus dimensiones.
+
+Para hacer investigaciones relevantes y de calidad es obligatorio contar con un personal altamente especializado y altamente motivado. La investigación requiere de largas horas de trabajo y de una dedicación que una minoría de los profesionales poseen. Al enfocarse las contrataciones solo por asignaturas, entonces los perfiles son muy variados y muy genéricos. Se atraen una alta gama de perfiles de los cuales muchos están completamente desalineados con la naturaleza de las escuelas, y como consecuencia, las escuelas pueden entrar en una etapa de estancamiento y carecer de direccionalidad para impulsar su desarrollo..
+
+Un aspecto particularmente problemático, del cual fui víctima y que afecta a muchos excelentes profesionales que desean ingresar a la UASD, es la necesidad de tener todos los documentos listos para participar en el concurso. Esto afecta desproporcionadamente a aquellos profesionales que han estudiado fuera del país y poseen una experiencia y formación altamente especializada. Obtener todas las documentaciones puede ser costoso y tarda mucho más tiempo del que se tiene disponible, debido a la burocracia involucrada. Además, la UASD suele solicitar documentos originales para el concurso, lo cual es una barrera significativa para muchos candidatos. Muchas veces, los potenciales candidatos solo poseen un documento original y reemplazarlo puede implicar viajar a otro país, lo cual representa una carga adicional innecesaria.
+
+## ¿Cómo podemos mejorar?
+
+Para abordar las deficiencias del sistema actual y proponer mejoras sustanciales, es fundamental establecer dos principios rectores:
+
+1. **El candidato debe ser un profesional de alto calibre en su área de especialización, con una experiencia y producción comprobada.**  
+2. **El candidato debe tener un fuerte código de ética profesional y personal, alineado con la filosofía y fundamentos éticos de la UASD y de su área profesional.**
+
+Estos principios nos permitirán delinear una serie de mejoras que no sólo resuelvan los problemas actuales, sino que también impulsen el desarrollo integral de la institución.
+
+#### **1\. Contratar por especialidad, no por asignatura**
+
+Cada escuela debe contar con un plan estratégico de desarrollo y haber identificado cuáles son sus áreas especializadas que declararán como prioritarias, basándose en tendencias internacionales, nacionales y las prioridades del Gobierno de turno. Este enfoque va más allá de las cátedras y se convierte en un mecanismo constante que mantiene a las escuelas relevantes y en constante evolución. Una vez definidas estas áreas, las escuelas deben hacer concursos considerando únicamente esas especializaciones, ya sea para sustituir al personal que hace falta en áreas especializadas existentes o para explorar nuevas áreas. Solo los profesores de las unidades académicas (escuelas e institutos) pueden distinguir entre modas y verdaderas tendencias académicas.
+
+**Ejemplo concreto:** La Escuela de Física y el Instituto de Física podrían solicitar un concurso para impulsar investigaciones sobre el diseño y fabricación de materiales y dispositivos semiconductores, (en colaboración con la Facultad de Ingeniería, por supuesto). Aunque ya contamos con una profesora que adquirió experiencia valiosa durante su doctorado en técnicas de fabricación de semiconductores y un profesor experto en Física del Estado Sólido, esto fue por coincidencia y no parte de un plan institucional. La ventaja de esta forma de contratación es que cualquier especialista puede cubrir la demanda de asignaturas del Ciclo Básico y las de formación general. Esto hace innecesario realizar concursos para cubrir esas necesidades, evitando contratar profesionales con un perfil no alineado a la estrategia e intereses de las unidades académicas.
+
+#### **2\. Pedir documentaciones originales solo para contratación**
+
+Imaginemos que Albert Einstein desea ingresar a la UASD. Si llega a la DIRHA y le falta un documento, como la legalización del MESCyT, es probable que se vaya desilusionado, o simplemente opte por irse a otra universidad privada. Así que sin ninguna ceremonia, la UASD acaba de rechazar la participación de un Premio Nóbel para participar en un concurso que seguramente ganaría, y no solo eso, es un personaje que daría un gran prestigio a la Universidad. Este ejemplo ilustra perfectamente la rigidez administrativa del proceso actual y lo incompatible que es con la idea de contratar al mejor profesional disponible.  
+Hemos sustituido la premisa de «contratar al mejor» por «contratar al que sea que tenga los documentos listos». La prisa por recibir todas las documentaciones originales antes del concurso es innecesaria y puede ahuyentar a candidatos excepcionales. La única razón por la que se hace así es por razones administrativas, ya que con el sistema actual la DIRHA recibe una cantidad exorbitante de aplicaciones para los concursos. Eso lo tomaría como evidencia del problema que tiene el diseño del concurso, ya que se supone que ser profesor de una universidad debería ser un proceso complicado por la demanda intelectual que implica ser profesor, pero de alguna manera, todavía aparecen tantos candidatos, que la DIRHA tarda meses en poder organizar y depurar todos esos expedientes.
+
+**Propuesta:** Siguen con el ejemplo de la Escuela de Física, si se realiza un concurso solicitando especialistas en Mecánica Cuántica, Relatividad General o Física de Semiconductores, Einstein podría participar como experto en cuántica y relatividad. De igual manera, un ingeniero con experiencia en semiconductores, tal vez proveniente de TSMC, INTEL o AMD, también podría participar como experto en semiconductores. ¿Cuántos expertos tenemos en el país de Mecánica Cuántica? Muy pocos, pero ser experto en esta área está completamente alineado con la naturaleza de la Escuela de Física, y estoy seguro que podría dar una clase de Física Básica, si hace falta, claro.
+
+#### **3\. Evaluar haciendo énfasis en la trayectoria profesional**
+
+Hacer énfasis en las titulaciones es un error, ya que los títulos solo aseguran competencias mínimas. Un profesor universitario debe ser un profesional de alto rendimiento, no alguien que se conforme con lo mínimo. Las titulaciones pueden usarse para desempatar, pero no deben ser el criterio principal de evaluación.
+
+**Ejemplo:** Si evaluamos dos candidatos para la Escuela de Física:
+
+1. Un profesional con grado en Física Aplicada, con Maestría y Doctorado en Física, con dos publicaciones teóricas sobre modelos de semiconductores.  
+2. Un profesional con grado en Ingeniería Electrónica, con Maestría en Materiales Semiconductores, con 10 patentes de procesos de diseño y fabricación de semiconductores.
+
+¿Cuál de estos dos candidatos contribuiría más a la escuela de física y a sus estudiantes en el aprendizaje sobre los semiconductores? En la actualidad, la DIRHA no aceptaría los documentos del segundo candidato, aunque parece más apropiado. En la forma como se trabaja en la actualidad, es la DIRHA que hace las verificaciones de títulos atendiendo a la lista de títulos o criterios que deben cumplirse en el grado o postgrado, según resoluciones de las escuelas, con la confirmación de la Comisión de Asuntos Docentes del Consejo Universitario. En realidad es muy difícil para una persona evaluar documentos académicos de un área distinta a la suya, ya que hay tantas variaciones, que cualquier lista o criterios siempre dejarán algunos grados relevantes fuera o incluirán grados irrelevantes. A ésto se le añade las confusiones con áreas que no tienen nada que ver una con otra (Física y Educación Física, por ejemplo). Es mi opinión que este proceso debería ser llevado a cabo por una comisión de la escuela correspondiente.
+
+Siguiendo con el ejemplo, el segundo candidato no tiene doctorado ni publicaciones, pero tiene 10 patentes. Es muy posible que el primer candidato gane porque tiene PhD. De nuevo, aquí entra el gran problema de darle demasiada importancia a los títulos.
+
+#### **4\. Solo realizar concursos externos**
+
+Para siempre tener la posibilidad de contratar al mejor candidato posible, todos los concursos deben ser externos. Los concursos internos incentivan la [endogamia académica](https://www.rae.es/diccionario-estudiante/endogamia#:~:text=Pr%C3%A1ctica%20que%20consiste%20en%20dar%20preferencia%20a%20personas%20vinculadas%20a%20un%20grupo%20o%20una%20instituci%C3%B3n%20para%20incorporarse%20a%20estos%20como%20miembros.%20La%20endogamia%20en%20la%20universidad%20cierra%20las%20puertas%20a%20muchos%20profesores.), lo que puede llevar a una estancamiento institucional.
+
+Aunque los concursos internos a veces se usan como un mecanismo de promoción, es necesario evitar el uso de los concursos para estos fines. La idea de hacer concurso es de poder seleccionar al mejor personal que está disponible para ser contratado. Limitar a los participantes de manera artificial es contraproducente. Para las promociones deben usarse técnicas apropiadas.
+
+#### **5\. Hacer una verificación mínima de las documentaciones**
+
+Solamente con los candidatos que hayan aprobado el concurso, la DIRHA puede hacer algunas validaciones básicas relativa a los candidatos. Es posible que para hacer éstas validaciones el personal deba recibir una capacitación especial, pero es necesario hacerlo para no deponer de ninguna instancia externa.
+
+* **Verificar el reconocimiento de las instituciones emisoras:** Se debe verificar la legalidad de las instituciones que han emitido los títulos, ya sea consultando bases de datos oficiales (como en el caso de los Estados Unidos, que tiene un base de datos de las instituciones acreditadas) u otro mecanismo que cada país tiene para facilitar esta verificación.  
+* **Verificar la autenticidad de los títulos:** Se debe contactar a las oficinas de registro de cada institución que ha emitido los títulos de cada ganador de concurso. La UASD debe protegerse de posibles fraudes académicos y es necesario que el personal de la DIRHA deba realizar esta tarea de manera independiente. Eso es práctico solamente si se limita a los candidatos que han pasado el proceso de concurso. En el sistema actual, el candidato debe llevar los documentos legalizados como una forma de comprobar su autenticidad. Depender de eso es problemático porque cualquier documento con el acceso a la tecnología apropiada puede ser falsificado. Es por eso que la DIRHA de verificar la veracidad y validez de estos documentos tan importantes de manera independiente para todos los candidatos, previo a la contratación.  
+* **Hacer una verificación de antecedentes.** La DIRHA debe de hacer una investigación de los antecedentes, en lo que se puede identificar defecto de carácter incompatible con la función de ser profesor. Candidatos con historial dudoso deben ser sujetos a investigaciones más profundas antes de ser contratados, ya que ser profesor es una posición de poder ante los estudiantes, y por lo tanto, debe de hacerse un esfuerzo razonable en contratar profesores que estén consciente de su poder y de utilizarlo para cumplir su trabajo en favor de sus estudiantes y la UASD.  
+* **Envío directo de documentos.** En muchos casos, como los títulos y record de notas, los candidatos pueden solicitar a las instituciones que emiten estos documentos que lo envíen por correo regular a las oficinas de la DIRHA directamente. De esta manera, como los documentos no fueron tocados por nadie, existe una muy baja probabilidad de falsificación..
+
+## Conclusión
+
+El sistema de contratación del personal permanente en la UASD es un pilar fundamental para el éxito académico y el desarrollo institucional. Sin embargo, los desafíos filosóficos y prácticos que enfrenta actualmente limitan su capacidad para adaptarse a las necesidades cambiantes de la sociedad y de la educación superior. Es necesario establecer principios claros y mejoras específicas en los procesos de contratación para no solo mejorar la docencia, sino también la investigación y la extensión.
+
+La implementación de estas reformas permitirá a la UASD atraer talentos de alto calibre, mantenerse relevante en un mundo académico en constante evolución y fomentar un ambiente de innovación e incentivar un desarrollo sostenible de la sociedad. Al reducir los aspectos burocráticos superflúos de evaluar titulaciones y formación académica, es de mayor producción centrarse en la trayectoria profesional e historial ético de los candidatos, la UASD podrá asegurar que sus docentes no solo cumplen con los requisitos mínimos, sino que también están preparados para liderar en sus respectivas áreas.
+
+El camino hacia una universidad más dinámica y relevante comienza con la adaptación de sus procesos internos a las demandas del siglo XXI. Con estas mejoras, la UASD no solo cumplirá su misión de formar profesionales de alto rendimiento, sino que también se posicionará como un líder en educación superior a nivel nacional e internacional.
