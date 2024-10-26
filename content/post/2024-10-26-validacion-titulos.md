@@ -2,7 +2,7 @@
 title = '¿Cómo identificar si un título es válido?'
 subtitle = 'Una guía general de cómo validar títulos académicos'
 date = 2024-10-26T19:00:00-04:00
-draft = true
+draft = false
 image = "img/2024-10-26-validacion-titulos.jpeg" 
 tags = ["Validación de títulos académicos", "Títulos falsificados", "UASD", "INTEC", "PUCMM", "MESCyT", "Legalización de títulos"]
 +++
