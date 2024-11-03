@@ -14,3 +14,7 @@ comments: false
 El Dr. Pérez obtuvo su doctorado en Química en la [University of the Sciences in Philadelphia, hoy Saint Joseph University](https://www.sju.edu/departments/chemistry), su maestría en Física en la [Universidad de Puerto Rico Recinto de Río Piedras](https://natsci.uprrp.edu/physics/) y su licenciatura en Física en la [UASD](https://uasd.edu.do/facultad-ciencias/escuelas/escuela-de-fisica/). Ha liderado proyectos de investigación financiados por FONDOCyT, ha asesorado numerosas tesis y trabajos finales de grado y posgrado, y ha participado en diversas actividades de desarrollo curricular a nivel preuniversitario y universitario.
 
 Con una pasión por la divulgación científica y la mejora de las políticas educativas, el Dr. Vladimir Pérez busca, a través de **Multiverso Académico**, compartir su visión y experiencias, así como aprender de la comunidad académica y de los lectores interesados en estos temas.
+
+### Política de Privacidad
+
+Para mejorar nuestro sitio web, utilizamos el servicio de Google Analytics. Este servicio recopila datos agregados y anónimos sobre la navegación de los usuarios. Es importante destacar que Google es quien almacena y procesa esta información, no nosotros. Como resultado, no tenemos acceso a datos personales que permitan identificar a usuarios individuales. La información que obtenemos nos sirve para comprender tendencias generales y mejorar el contenido de nuestro sitio. Puedes consultar la Política de Privacidad de Google aquí: https://policies.google.com/privacy?hl=es
