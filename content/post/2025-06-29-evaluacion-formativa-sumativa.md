@@ -3,7 +3,7 @@ title = 'Evaluación Formativa vs. Sumativa'
 date = 2025-06-29T20:00:00-04:00
 draft = false
 image = "img/2025-06-29-evaluacion-formativa-sumativa.jpg" 
-tags = ["Evaluación formativa","Evaluación sumativa", "Evaluación del aprendizaje", "Plan de evaluación"]
+tags = ["Evaluación formativa","Evaluación sumativa", "Evaluación del aprendizaje", "Plan de evaluación", "Calidad Educativa"]
 +++
 
 Un plan de evaluación eficaz debe responder a preguntas cruciales: ¿estamos midiendo el _aprendizaje_ o solo el _esfuerzo_? ¿Nuestras pruebas son herramientas de práctica y ensayo o veredictos finales que deciden la aprobación de un curso? Esta distinción, clave para el uso de evaluaciones formativas y sumativas, a menudo se desdibuja en la práctica docente, generando sistemas de calificación que no reflejan con fidelidad el dominio real de los estudiantes. Para abordar este desafío, a continuación se desglosarán las funciones específicas de cada evaluación y se presentará un modelo con tres principios para diseñar un plan evaluativo coherente que fomente el aprendizaje y lo certifique con validez.
