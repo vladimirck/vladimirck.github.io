@@ -27,7 +27,7 @@ En síntesis, cualquier actividad evaluativa, independientemente de su formato, 
 | Característica | Evaluación Formativa | Evaluación Sumativa |
 | :--- | :--- | :--- |
 | **Objetivo Principal** | **Mejorar y guiar** el proceso de aprendizaje. | **Medir y certificar** el aprendizaje logrado. |
-| **¿Cuándo se aplica?** | **Durante** todo el proceso de enseñanza. | **Al final** de una unidad, semestre o curso. |
+| **¿Cuándo se aplica?** | **Durante** todo el proceso de enseñanza. | **Al final** de una o varias unidades, período de tiempo específico o el curso. |
 | **Foco Principal** | El **proceso** y la mejora continua. | El **producto** y el resultado final. |
 | **Retroalimentación** | **Esencial y detallada.** Orientada a que el estudiante identifique errores y mejore. | **Opcional y general.** Usualmente, se enfoca en explicar y justificar la puntuación. |
 | **Peso en la Calificación** | **Bajo o nulo.** Su propósito es motivar, no definir la calificación. | **Alto y definitorio.** Constituye la mayor parte de la calificación final, dependiendo de las regulaciones institucionales. |
