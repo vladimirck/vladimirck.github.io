@@ -53,8 +53,6 @@ La construcción de un sistema de evaluación justo, transparente y que realment
     * Las evaluaciones parciales tienen un valor máximo del 40%.
     * La evaluación final tiene un valor máximo del 40% (asignaturas teóricas) o 30% (asignaturas teórico-prácticas).
 
-    Al sumar estos componentes, se observa que el peso total de la evaluación sumativa se alinea con el rango recomendado, consolidándose entre un **70% y un 80%** de la calificación total, lo que valida la aplicación de este principio en la práctica institucional.
-
 2.  **Principio de Frecuencia: Ofrecer retroalimentación constante para reducir la incertidumbre.**
     Se recomienda implementar **múltiples y variadas evaluaciones formativas** a lo largo del curso. Un estudiante no debería llegar a una evaluación sumativa de alto impacto sin antes haber recibido retroalimentación sobre su desempeño. Cada evaluación formativa es una oportunidad invaluable para que el estudiante comprenda los criterios con los que se le valora y corrija su rumbo en un entorno de bajo riesgo. Esta exposición constante y guiada no solo profundiza el aprendizaje, sino que también reduce la ansiedad, convirtiendo la evaluación en una rutina constructiva y no en un evento temido.
 
