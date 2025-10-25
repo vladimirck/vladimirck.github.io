@@ -13,7 +13,7 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
-disqusShortname = "vladimir-do"
+#disqusShortname = "vladimir-do"
 googleAnalytics = "G-1RKT2C1BY5"
 
 [Params]
@@ -30,7 +30,7 @@ googleAnalytics = "G-1RKT2C1BY5"
   wordCount = true
   useHLJS = true
   socialShare = true
-  delayDisqus = true
+  delayDisqus = false
   showRelatedPosts = true
   math = true
 #  hideAuthor = true
