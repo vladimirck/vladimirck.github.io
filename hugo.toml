@@ -3,6 +3,8 @@ languageCode = "es-do"
 DefaultContentLanguage = "es"
 title = "Multiverso Académico"
 theme = "PaperMod"
+enableGitInfo = true
+
 
 # Versión de Hugo v0.160.1
 pygmentsCodeFences = true
