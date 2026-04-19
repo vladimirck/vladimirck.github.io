@@ -1,0 +1,131 @@
+<div class="audio-reader no-print" id="audio-reader-container">
+    <button id="play-pause-btn" title="Escuchar artículo">
+        <svg id="play-icon" class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polygon points="5 3 19 12 5 21 5 3"></polygon>
+        </svg>
+        <svg id="pause-icon" class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:none;">
+            <rect x="6" y="4" width="4" height="16"></rect>
+            <rect x="14" y="4" width="4" height="16"></rect>
+        </svg>
+        <span id="btn-text">Escuchar artículo</span>
+    </button>
+    
+    <div class="controls">
+        <select id="reader-rate" title="Velocidad de lectura">
+            <option value="0.75">0.75x</option>
+            <option value="1" selected>1x</option>
+            <option value="1.25">1.25x</option>
+            <option value="1.5">1.5x</option>
+            <option value="2">2x</option>
+        </select>
+        <button id="stop-btn" title="Detener" style="background: var(--border); padding: 0.4rem;">
+            <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <rect x="4" y="4" width="16" height="16"></rect>
+            </svg>
+        </button>
+    </div>
+    
+    <span class="audio-status" id="audio-status"></span>
+</div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const playBtn = document.getElementById('play-pause-btn');
+        const stopBtn = document.getElementById('stop-btn');
+        const rateSelect = document.getElementById('reader-rate');
+        const statusSpan = document.getElementById('audio-status');
+        const playIcon = document.getElementById('play-icon');
+        const pauseIcon = document.getElementById('pause-icon');
+        const btnText = document.getElementById('btn-text');
+
+        let synth = window.speechSynthesis;
+        let utterance = null;
+        let isPlaying = false;
+
+        if (!synth) {
+            document.getElementById('audio-reader-container').style.display = 'none';
+            return;
+        }
+
+        const getCleanText = () => {
+            const articleContent = document.querySelector('.post-content');
+            if (!articleContent) return "";
+            
+            // Clonamos para no afectar el DOM real
+            const clone = articleContent.cloneNode(true);
+            
+            // Removemos elementos que no queremos leer
+            const excludeSelectors = 'pre, code, .no-read, script, style, table, figure, figcaption';
+            clone.querySelectorAll(excludeSelectors).forEach(el => el.remove());
+            
+            return clone.innerText.trim();
+        };
+
+        const updateUI = (playing) => {
+            isPlaying = playing;
+            if (playing) {
+                playIcon.style.display = 'none';
+                pauseIcon.style.display = 'inline';
+                btnText.innerText = 'Pausar';
+                statusSpan.innerText = 'Leyendo...';
+            } else {
+                playIcon.style.display = 'inline';
+                pauseIcon.style.display = 'none';
+                btnText.innerText = synth.paused ? 'Reanudar' : 'Escuchar artículo';
+                statusSpan.innerText = synth.paused ? 'Pausado' : '';
+            }
+        };
+
+        playBtn.addEventListener('click', () => {
+            if (synth.speaking && !synth.paused) {
+                synth.pause();
+                updateUI(false);
+            } else if (synth.paused) {
+                synth.resume();
+                updateUI(true);
+            } else {
+                const text = getCleanText();
+                if (!text) return;
+
+                utterance = new SpeechSynthesisUtterance(text);
+                utterance.lang = 'es-DO';
+                utterance.rate = parseFloat(rateSelect.value);
+
+                utterance.onend = () => {
+                    updateUI(false);
+                    utterance = null;
+                };
+
+                utterance.onerror = (event) => {
+                    console.error('SpeechSynthesisUtterance error', event);
+                    updateUI(false);
+                };
+
+                synth.speak(utterance);
+                updateUI(true);
+            }
+        });
+
+        stopBtn.addEventListener('click', () => {
+            synth.cancel();
+            updateUI(false);
+            utterance = null;
+        });
+
+        rateSelect.addEventListener('change', () => {
+            if (synth.speaking) {
+                const wasPlaying = !synth.paused;
+                synth.cancel();
+                // Reiniciar con la nueva velocidad si estaba hablando
+                if (wasPlaying) {
+                    playBtn.click();
+                }
+            }
+        });
+        
+        // Limpiar al salir de la página
+        window.onbeforeunload = function () {
+            synth.cancel();
+        };
+    });
+</script>
