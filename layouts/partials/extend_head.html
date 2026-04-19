@@ -17,6 +17,12 @@ Or you can delete these file if you don't need it.
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.19.1/vis.css" integrity="sha256-I1UoFd33KHIydu88R9owFaQWzwkiZV4hXXug5aYaM28=" crossorigin="anonymous" />
 -->
 
+<link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
+<link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+
+{{- if or .Params.math site.Params.math -}}
 <script>
   MathJax = {
     tex: {
@@ -25,12 +31,16 @@ Or you can delete these file if you don't need it.
         ["\\(", "\\)"],
       ],
     },
+    options: {
+      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+    }
   };
 </script>
-
 <script
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/4.0.0/tex-chtml-nofont.min.js"
   integrity="sha512-WfbC3/6OCK0239elhU+dZBsn02JKL1j64JDjX7QZVRbbiU1N0oFx9pGvQwbWeb982x7JktnbPvCq7ZAoQQqGGw=="
   crossorigin="anonymous"
   referrerpolicy="no-referrer"
+  defer
 ></script>
+{{- end -}}
