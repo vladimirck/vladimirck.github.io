@@ -88,3 +88,9 @@ googleAnalytics = "G-1RKT2C1BY5"
             unsafe = true # Permitir HTML en los posts
     [markup.highlight]
         noClasses = false
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
