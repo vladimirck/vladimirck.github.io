@@ -3,7 +3,7 @@ title = 'Estándares de Créditos Académicos'
 subtitle = "Comparación Internacional y Ajustes Necesarios en la República Dominicana"
 date = 2024-06-17
 draft = false
-image = "img/2024-06-17-Estándares-de-Créditos-Académicos.jpg" 
+cover.image = "img/2024-06-17-Estándares-de-Créditos-Académicos.jpg" 
 tags = ["Créditos Académicos", "Educación Superior", "Estándares Internacionales", "MESCyT", "Calidad Educativa" ]
 +++
 

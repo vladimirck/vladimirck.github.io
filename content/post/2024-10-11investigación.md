@@ -3,7 +3,7 @@ title = 'La Investigación e Innovación en República Dominicana'
 subtitle = 'Necesidad de Políticas Integrales y Coherentes'
 date = 2024-10-11T15:00:00-04:00
 draft = false
-image = "img/2024-10-11-investigación.jpg" 
+cover.image = "img/2024-10-11-investigación.jpg" 
 tags = ['Investigación y Desarrollo (I+D)', 'FONDOCyT', 'Desarrollo Económico', 'Innovación', 'Desarrollo Tecnológico', 'Economía del Conocimiento', 'Investigación Básica y Aplicada', 'Cultura de Innovación']
 +++
 La investigación y desarrollo (I+D) es un  pilar fundamental para el progreso económico y social sostenible de cualquier nación. En República Dominicana, sin embargo, la situación actual presenta varios desafíos significativos que requieren una atención urgente. Este artículo analiza en profundidad las limitaciones actuales del sistema de I+D en el país, destacando problemas como la escasa inversión pública y privada, la fragmentación entre entidades gubernamentales y académicas, y la falta de políticas integrales y claras.

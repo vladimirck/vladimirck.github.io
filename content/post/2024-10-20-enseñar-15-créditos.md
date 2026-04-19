@@ -3,7 +3,7 @@ title = '¿Por qué querrías impartir 15 créditos?'
 subtitle = 'Una conversación sobre créditos académicos y calidad en la educación superior'
 date = 2024-10-20T18:00:00-04:00
 draft = false
-image = "img/2024-10-20-enseñar-15-crédito.jpg" 
+cover.image = "img/2024-10-20-enseñar-15-crédito.jpg" 
 tags = ['Profesor', "Créditos Académicos", 'Universidad', 'Excelencia Académica', 'Calidad Educativa']
 +++
 

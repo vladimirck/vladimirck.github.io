@@ -2,7 +2,7 @@
 title = 'Evaluación Formativa vs. Sumativa'
 date = 2025-06-29T20:00:00-04:00
 draft = false
-image = "img/2025-06-29-evaluacion-formativa-sumativa.jpg" 
+cover.image = "img/2025-06-29-evaluacion-formativa-sumativa.jpg" 
 tags = ["Evaluación formativa","Evaluación sumativa", "Evaluación del aprendizaje", "Plan de evaluación", "Calidad Educativa"]
 +++
 

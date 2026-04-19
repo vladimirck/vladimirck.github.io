@@ -3,7 +3,7 @@ title = 'Ingeniero, lo lamento, usted es un licenciado'
 subtitle = 'La confusión entre títulos académicos y profesionales frena el avance de nuestra sociedad'
 date = 2024-10-12T15:00:00-04:00
 draft = false
-image = "img/2024-10-12-titulo-academico-profesional.jpg" 
+cover.image = "img/2024-10-12-titulo-academico-profesional.jpg" 
 tags = ['Títulos Académicos', 'Títulos Profesionales', 'Educación Superior', 'Licenciatura', 'Ingeniería', 'Química', 'CODIA', 'MESCyT']
 +++
 

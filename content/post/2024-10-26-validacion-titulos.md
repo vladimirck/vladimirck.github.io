@@ -3,7 +3,7 @@ title = '¿Cómo identificar si un título es válido?'
 subtitle = 'Una guía general de cómo validar títulos académicos'
 date = 2024-10-26T19:00:00-04:00
 draft = false
-image = "img/2024-10-26-validacion-titulos.jpeg" 
+cover.image = "img/2024-10-26-validacion-titulos.jpeg" 
 tags = ["Validación de títulos académicos", "Títulos falsificados", "UASD", "INTEC", "PUCMM", "MESCyT", "Legalización de títulos"]
 +++ 
 En los últimos años, se ha descubierto y denunciado a numerosas personas que ejercen profesiones con títulos falsos. La falsificación de títulos académicos es extremadamente dañina porque erosiona la confianza en las instituciones y, en algunos casos, peligrosa para aquellos quienes reciben los servicios ofrecidos por estos individuos, como tratamientos médicos, servicios educativos y psicológicos.

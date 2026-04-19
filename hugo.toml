@@ -1,107 +1,90 @@
-baseurl = "https://multiverso.do"
+baseURL = "https://multiverso.do"
 languageCode = "es-do"
 DefaultContentLanguage = "es"
-
 title = "Multiverso Académico"
-# Using theme as git submodule 
-theme = "beautifulhugo"
-# Or when using theme as hugo module
-# theme = "github.com/halogenica/beautifulhugo"
-pygmentsStyle = "trac"
-pygmentsUseClasses = true
+theme = "PaperMod"
+
+# Versión de Hugo v0.160.1
 pygmentsCodeFences = true
-pygmentsCodefencesGuessSyntax = true
-#pygmentsUseClassic = true
-#pygmentOptions = "linenos=inline"
-#disqusShortname = "vladimir-do"
+pygmentsUseClasses = true
+
 googleAnalytics = "G-1RKT2C1BY5"
 
 [Params]
-#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Reflexiones sobre Ciencia, Educación y Gestión Universitaria"
-  mainSections = ["post","posts"]
-  logo = "img/logo.png" # Expecting square dimensions
-#  favicon = "img/favicon.ico"
-  dateFormat = "02/01/2006"
-  commit = false
-  rss = true
-  comments = false
-  readingTime = true
-  wordCount = true
-  useHLJS = true
-  socialShare = true
-  delayDisqus = false
-  showRelatedPosts = true
-  math = true
-#  hideAuthor = true
-#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
-  disclaimerText = "Las opiniones expresadas en este sitio web son exclusivamente mías y no representan necesariamente los puntos de vista de la Universidad Autónoma de Santo Domingo (UASD), de la Facultad de Ciencias, ni del Instituto de Física. Los comentarios y reflexiones aquí publicados son fruto de mis experiencias personales y profesionales, y tienen como objetivo fomentar el diálogo y la reflexión sobre temas de ciencia, educación y gestión universitaria."
+    env = "production" # to enable google analytics, images optimization, etc.
+    title = "Multiverso Académico"
+    description = "Reflexiones sobre Ciencia, Educación y Gestión Universitaria"
+    keywords = ["UASD", "Ciencia", "Educación", "Gestión Universitaria", "Física"]
+    author = "Vladimir Pérez"
+    # Estética
+    defaultTheme = "auto" # dark, light, auto
+    disableThemeToggle = false
+    ShowReadingTime = true
+    ShowShareButtons = true
+    ShowPostNavLinks = true
+    ShowBreadCrumbs = true
+    ShowCodeCopyButtons = true
+    ShowWordCount = true
+    ShowRssButtonInSectionTermList = true
+    UseHugoToc = true
+    disableSpecial1stPost = false
+    disableScrollToTop = false
+    comments = false
+    hidemenu = false
+    showtoc = true
+    tocopen = false
 
-#[[Params.bigimg]]
-#  src = "img/triangle.jpg"
-#  desc = "Triangle"
-#[[Params.bigimg]]
-#  src = "img/sphere.jpg"
-#  desc = "Sphere"
-#  # position: see values of CSS background-position.
-#  position = "center top"
-#[[Params.bigimg]]
-#  src = "img/hexagon.jpg"
-#  desc = "Hexagon"
+    [Params.label]
+        text = "Multiverso Académico"
+        icon = "img/logo.png"
+        iconHeight = 35
 
+    [Params.profileMode]
+        enabled = true # needs to be true for the card-like home page
+        title = "Multiverso Académico"
+        subtitle = "Reflexiones sobre Ciencia, Educación y Gestión Universitaria"
+        imageUrl = "img/logo.png"
+        imageWidth = 120
+        imageHeight = 120
+        imageTitle = "Vladimir Pérez"
+        [[Params.profileMode.buttons]]
+            name = "Explorar Artículos"
+            url = "post"
+        [[Params.profileMode.buttons]]
+            name = "Sobre este blog"
+            url = "page/about/"
 
-[author]
-  # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  name = "Vladimir Pérez"
-  #  website = ""
-  email = "vladimirck+MultiversoAcademico@gmail.com"
-  twitter = "vladimirck"
-  github = "vladimirck"
-#  facebook = "username"
-#  gitlab = "username"
-#  bitbucket = "username"
-#  reddit = "username"
-#  linkedin = "username"
-#  xing = "username"
-#  stackoverflow = "users/XXXXXXX/username"
-#  snapchat = "username"
-#  instagram = "username"
-#  youtube = "user/username" # or channel/channelname
-#  soundcloud = "username"
-#  spotify = "username"
-#  bandcamp = "username"
-#  itchio = "username"
-#  vk = "username"
-#  paypal = "username"
-#  telegram = "username"
-#  500px = "username"
-#  codepen = "username"
-#  mastodon = "url"
-#  kaggle = "username"
-#  weibo = "username"
-#  slack = "username"
-#  medium = "username"
-#  discord = "invite code (https://discord.gg/XXXXXXX)"
-#  strava = "userid"
+    [Params.homeInfoParams]
+        Title = "Hola \U0001F44B"
+        Content = "Bienvido a mi espacio de reflexiones. Aquí encontrarás artículos sobre la Universidad Autónoma de Santo Domingo (UASD), ciencia y pedagogía."
 
-[[menu.main]]
-    name = "Inicio"
-    url = ""
-    weight = 1
+    [[Params.socialIcons]]
+        name = "twitter"
+        url = "https://twitter.com/vladimirck"
+    [[Params.socialIcons]]
+        name = "github"
+        url = "https://github.com/vladimirck"
 
-
-[[menu.main]]
-    name = "Artículos por Palabras Claves"
-    url = "tags"
-    weight = 2
-
-[[menu.main]]
-    name = "Sobre este blog"
-    url = "page/about/"
-    weight = 3
+[menu]
+    [[menu.main]]
+        identifier = "posts"
+        name = "Artículos"
+        url = "/post/"
+        weight = 10
+    [[menu.main]]
+        identifier = "tags"
+        name = "Etiquetas"
+        url = "/tags/"
+        weight = 20
+    [[menu.main]]
+        identifier = "about"
+        name = "Sobre mí"
+        url = "/page/about/"
+        weight = 30
 
 [markup]
-  [markup.tableOfContents]
-    endLevel = 3
-    ordered = false
-    startLevel = 2
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true # Permitir HTML en los posts
+    [markup.highlight]
+        noClasses = false

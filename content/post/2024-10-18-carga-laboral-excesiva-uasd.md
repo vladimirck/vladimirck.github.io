@@ -3,7 +3,7 @@ title = '120 Horas Semanales: La Realidad Oculta de los Profesores de la UASD'
 subtitle = 'Impacto en la Salud, Calidad Docente y Propuestas de Reforma'
 date = 2024-10-18T16:00:00-04:00
 draft = false
-image = "img/2024-10-18-carga-laboral-excesiva-uasd.md.jpg" 
+cover.image = "img/2024-10-18-carga-laboral-excesiva-uasd.md.jpg" 
 tags = ['Carga laboral', 'UASD', 'Créditos académicos', 'Exceso de trabajo', 'Calidad educativa', 'Profesores' ]
 toc = true
 +++
