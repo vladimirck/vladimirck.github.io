@@ -6,6 +6,7 @@ draft = false
 cover.image = "img/2024-10-18-carga-laboral-excesiva-uasd.md.jpg" 
 tags = ['Carga laboral', 'UASD', 'Créditos académicos', 'Exceso de trabajo', 'Calidad educativa', 'Profesores' ]
 toc = true
+categories = ["Gestión Educativa"]
 +++
 La Universidad Autónoma de Santo Domingo (UASD) es una institución educativa emblemática en la República Dominicana, conocida por su compromiso con la excelencia académica y la formación integral de sus estudiantes. Sin embargo, se ha identificado una problemática significativa que afecta tanto a los profesores como a la calidad de la educación ofrecida: la excesiva carga laboral asignada a los docentes. Este artículo tiene como objetivo analizar en profundidad esta problemática, explorando sus causas, consecuencias y posibles soluciones.
 

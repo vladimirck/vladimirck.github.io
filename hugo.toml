@@ -4,13 +4,21 @@ DefaultContentLanguage = "es"
 title = "Multiverso Académico"
 theme = "PaperMod"
 enableGitInfo = true
-
+relativeURLs = true
+canonifyURLs = false
 
 # Versión de Hugo v0.160.1
 pygmentsCodeFences = true
 pygmentsUseClasses = true
-
 googleAnalytics = "G-1RKT2C1BY5"
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+    series = "series"
 
 [Params]
     env = "production" # to enable google analytics, images optimization, etc.
@@ -18,6 +26,13 @@ googleAnalytics = "G-1RKT2C1BY5"
     description = "Reflexiones sobre Ciencia, Educación y Gestión Universitaria"
     keywords = ["UASD", "Ciencia", "Educación", "Gestión Universitaria", "Física"]
     author = "Vladimir Pérez"
+    # Pilares Temáticos (Centralizado)
+    mainCategories = [
+        { name = "Gestión", slug = "gestión-educativa", color = "#3498db", icon = "balance", desc = "Políticas y administración." },
+        { name = "Educación", slug = "educación", color = "#9b59b6", icon = "book", desc = "Teoría y didáctica." },
+        { name = "C&T", slug = "ciencia-y-tecnología", color = "#2ecc71", icon = "atom", desc = "Avances y conceptos." },
+        { name = "Policy", slug = "policy-briefs", color = "#f1c40f", icon = "document", desc = "Análisis de impacto." }
+    ]
     # Estética
     defaultTheme = "auto" # dark, light, auto
     disableThemeToggle = false
@@ -29,12 +44,22 @@ googleAnalytics = "G-1RKT2C1BY5"
     ShowWordCount = true
     ShowRssButtonInSectionTermList = true
     UseHugoToc = true
+    header = { sticky = true }
     disableSpecial1stPost = false
     disableScrollToTop = false
     comments = false
     hidemenu = false
     showtoc = true
     tocopen = true
+
+    [Params.fuseOpts]
+        isCaseSensitive = false
+        shouldSort = true
+        location = 0
+        distance = 100
+        threshold = 0.4
+        minMatchCharLength = 0
+        keys = ["title", "permalink", "summary", "content"]
 
     [Params.assets]
         favicon = "img/logo.png"
@@ -51,7 +76,7 @@ googleAnalytics = "G-1RKT2C1BY5"
     [Params.profileMode]
         enabled = true # needs to be true for the card-like home page
         title = "Multiverso Académico"
-        subtitle = "<div class='profile-slogan'>Reflexiones sobre Ciencia, Educación y Gestión Universitaria</div><div class='profile-description'><strong>¡Bienvenidos a Multiverso Académico!</strong> Este blog es un espacio dedicado a la reflexión y el análisis sobre Ciencia, Tecnología, Educación y Gestión Universitaria. Aquí encontrarás artículos que exploran ideas innovadoras y prácticas actuales en investigación científica, políticas educativas y administración académica. Esperamos que disfrutes de la lectura y te unas a las discusiones, contribuyendo con tus propias perspectivas y experiencias.</div>"
+        subtitle = "<div class='profile-slogan'>Reflexiones sobre Ciencia, Educación y Gestión Universitaria</div><div class='profile-description'>Explorando ideas innovadoras en investigación científica, políticas educativas y administración académica. Únete a la discusión y comparte tus perspectivas.</div>"
         imageUrl = "img/logo.png"
         imageWidth = 120
         imageHeight = 120
@@ -73,17 +98,49 @@ googleAnalytics = "G-1RKT2C1BY5"
     [[Params.socialIcons]]
         name = "github"
         url = "https://github.com/vladimirck"
+    [[Params.socialIcons]]
+        name = "linkedin"
+        url = "https://www.linkedin.com/in/vladimir-p%C3%A9rez-veloz/"
 
 [menu]
     [[menu.main]]
-        identifier = "posts"
-        name = "Artículos"
-        url = "/post/"
+        identifier = "search"
+        name = "🔍"
+        url = "/search/"
+        weight = 1
+    [[menu.main]]
+        identifier = "themes"
+        name = "Temas"
+        url = "#"
         weight = 10
     [[menu.main]]
-        identifier = "tags"
-        name = "Etiquetas"
-        url = "/tags/"
+        parent = "themes"
+        identifier = "gestión-educativa"
+        name = "Gestión"
+        url = "/categories/gestión-educativa/"
+        weight = 11
+    [[menu.main]]
+        parent = "themes"
+        identifier = "educación"
+        name = "Educación"
+        url = "/categories/educación/"
+        weight = 12
+    [[menu.main]]
+        parent = "themes"
+        identifier = "ciencia-y-tecnología"
+        name = "C&T"
+        url = "/categories/ciencia-y-tecnología/"
+        weight = 13
+    [[menu.main]]
+        parent = "themes"
+        identifier = "policy-briefs"
+        name = "Policy"
+        url = "/categories/policy-briefs/"
+        weight = 14
+    [[menu.main]]
+        identifier = "archives"
+        name = "Archivo"
+        url = "/archives/"
         weight = 20
     [[menu.main]]
         identifier = "about"

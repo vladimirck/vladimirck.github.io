@@ -14,6 +14,7 @@ tags:
     "Física Educativa",
     "Calidad Educativa",
   ]
+categories: ["Ciencia y Tecnología"]
 ---
 
 La mecánica de fluidos parece ser una de esas áreas de la física descuidada por los propios físicos. A menudo, en los programas de grado de la carrera, esta disciplina crucial ni siquiera figura como optativa, quedando relegada casi exclusivamente a las facultades de ingenierías.

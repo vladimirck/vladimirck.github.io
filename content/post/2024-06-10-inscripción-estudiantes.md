@@ -5,6 +5,7 @@ draft = false
 cover.image = "img/2024-06-10-inscripción-estudiantes.jpg" 
 tags = ["UASD", "Proceso de inscripción", "Igualdad de oportunidades", "Reforma UASD", "Excelencia académica", "Índice de Compromiso Académico", "Retiro de materias"]
 math = false
+categories = ["Gestión Educativa"]
 +++
 
 En la Universidad Autónoma de Santo Domingo (UASD), el proceso de inscripción de los estudiantes ha presentado problemas persistentes. Aunque en circunstancias ideales el orden de inscripción no debería ser un factor crítico, la realidad muestra que muchas secciones de cursos se llenan rápidamente, dejando a numerosos estudiantes sin la posibilidad de inscribirse en las asignaturas que necesitan o desean cursar. Esta situación no solo genera frustración, sino que también puede impactar significativamente en el tiempo que tarda un estudiante en graduarse, al verse obligado a retrasar cursos esenciales para su progreso académico.
@@ -22,13 +23,13 @@ En la UASD, la asignación de cupos y la matrícula presentan problemas persiste
 
 Es crucial abordar esta problemática para garantizar un sistema de inscripción más equitativo y eficiente, beneficiando a toda la comunidad estudiantil en la UASD, y considerando las dificultades específicas que enfrentan los estudiantes antiguos y aquellos con recursos limitados.
 
-### El Extinto Sistema de Privilegios
+## El Extinto Sistema de Privilegios
 
 Hasta el año 2021, la UASD tenía un sistema de privilegios que beneficiaba a ciertos grupos específicos de estudiantes, como empleados, profesores, jubilados y sus familiares (cónyuges, hijos y hermanos). Estos privilegios incluían exoneraciones de pago de matrícula y derechos preferenciales para la selección de asignaturas. Aunque esta política estaba destinada a beneficiar a miembros de la comunidad universitaria vinculados laboralmente con la institución, generó un profundo malestar entre el resto de los estudiantes. La existencia de este sistema de privilegios era un reconocimiento tácito de que el sistema de inscripción era inadecuado. 
 
 Para más detalles sobre la eliminación de estos privilegios, consulte la [sentencia del Tribunal Constitucional TC/0218/20](https://www.tribunalconstitucional.gob.do/js/pdf/web/viewer.html?file=https://tribunalsitestorage.blob.core.windows.net/media/23622/tc-0218-20-tc-05-2013-0088.pdf) y la [resolución del Honorable Consejo Universitario Núm. 2021-04](https://uasd.edu.do/wp-content/uploads/2022/07/acta_cu_2021-001_cu_10_de_marzo_de_2021_0.pdf).
 
-### Propuesta para la Mejora del Sistema de Inscripción
+## Propuesta para la Mejora del Sistema de Inscripción
 
 Hasta el momento, hemos analizado en profundidad las deficiencias asociadas al actual proceso de inscripción en la UASD, incluyendo la distribución ineficiente de cupos, la preferencia por estudiantes de mayor antigüedad y la falta de sanciones efectivas para los retiros indiscriminados de materias. Estas problemáticas no solo causan frustración y retrasos en el progreso académico de los estudiantes, sino que también afectan la equidad y eficiencia del sistema educativo en su conjunto.
 
@@ -36,7 +37,7 @@ Para abordar integralmente estos temas, es fundamental adoptar un enfoque centra
 
 A continuación, presentamos los detalles de la propuesta para la implementación del Índice de Compromiso Académico y las reglas específicas que regirán el nuevo orden de inscripción.
 
-### Índice de Compromiso Académico
+## Índice de Compromiso Académico
 
 Definimos el **Índice de Compromiso Académico** como el porcentaje de materias inscritas que un estudiante completa, indepedientemente si el mismo la aprobó o la desaprobó. Este índice se calcularía como el promedio ponderado de todas las asignaturas cursadas, donde cada materia finalizada con nota publicada aportaría un valor de 1, mientras que cada asignatura retirada o no concluida tendría un valor de 0.
 
@@ -46,7 +47,7 @@ Es importante destacar que este índice no refleja necesariamente el rendimiento
 
 Por lo tanto, un alto **Índice de Compromiso Académico** no implica necesariamente que el estudiante sea sobresaliente, sino que simplemente indica que es inusual que abandone materias y refleja un sentido de la responsabilidad académica.
 
-### Propuestas de Reglas para el Orden de Inscripción 
+## Propuestas de Reglas para el Orden de Inscripción 
 
 A continuación se presentan una serie de reglas propuestas para determinar el orden de inscripción, basadas en el Índice de Compromiso Académico, el Índice Académico General y la antigüedad del estudiante:
 
@@ -55,7 +56,7 @@ A continuación se presentan una serie de reglas propuestas para determinar el o
 3. **Antigüedad en la UASD**: En caso de empate tanto en el Índice de Compromiso Académico como en el índice académico general, se dará prioridad al estudiante que tenga una mayor antigüedad en la universidad.
 4. **Estudiantes de Nuevo Ingreso**: Los estudiantes que se encuentren en su primer proceso de inscripción serán los que mayor prioridad tendrán, seleccionando sus asignaturas antes que todos los demás estudiantes, siguiendo el orden correspondiente a su número de matrícula asignado.
 
-### Implementación del Sistema
+## Implementación del Sistema
 
 A fin de garantizar una implementación eficaz y sencilla del nuevo sistema, se sugiere automatizar el proceso mediante un software que lleve a cabo las siguientes tareas:
 
@@ -63,7 +64,7 @@ A fin de garantizar una implementación eficaz y sencilla del nuevo sistema, se 
 - **Asignación Automática del Orden de Inscripción**: Basándose en el Índice de Compromiso Académico y las reglas propuestas, el software asignará el orden de inscripción a los estudiantes automáticamente.
 - **Promoción de Transparencia e Acceso a la Información**: El software permitirá a los estudiantes acceder a su respectivo índice y al orden de inscripción asignado, fomentando así la transparencia y confianza en el nuevo sistema.
 
-### Beneficios del Nuevo Sistema
+## Beneficios del Nuevo Sistema
 
 La implementación del Índice de Compromiso Académico y el nuevo sistema de inscripción conlleva varios beneficios tanto para la institución como para los estudiantes:
 

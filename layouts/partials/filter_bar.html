@@ -1,0 +1,225 @@
+<div class="filter-sticky-wrapper">
+    <div class="filter-group sidebar">
+        <button class="filter-btn select-all active" data-filter="all">Seleccionar Todos</button>
+        {{- range site.Params.mainCategories }}
+        {{- $categoryPage := site.GetPage (printf "categories/%s" .slug) }}
+        {{- if and $categoryPage (gt (len $categoryPage.Pages) 0) }}
+        <button class="filter-btn category-toggle active" data-filter="{{ .slug | urlize }}" style="--hover-color: {{ .color }}; border-left: 4px solid {{ .color }};">
+            {{ .name }}
+        </button>
+        {{- end }}
+        {{- end }}
+        <button class="filter-btn deselect-all" style="margin-top: 1rem; font-size: 0.8rem; opacity: 0.7;">Limpiar Selección</button>
+    </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const buttons = document.querySelectorAll('.category-toggle');
+    const selectAllBtn = document.querySelector('.select-all');
+    const deselectAllBtn = document.querySelector('.deselect-all');
+    const articles = Array.from(document.querySelectorAll('article.post-entry'));
+    const loadMoreBtn = document.getElementById('load-more-btn');
+    const loadMoreContainer = document.getElementById('load-more-container');
+    const emptyState = document.getElementById('empty-state');
+    
+    let activeFilters = new Set(Array.from(buttons).map(b => decodeURIComponent(b.getAttribute('data-filter'))));
+    let visibleCount = 10;
+
+    function updateUI() {
+        let matchingArticles = articles.filter(article => {
+            const rawCats = article.getAttribute('data-categories') || '';
+            const articleCats = rawCats.split(' ').map(c => decodeURIComponent(c)).filter(c => c.length > 0);
+            return activeFilters.size === 0 ? false : articleCats.some(cat => activeFilters.has(cat));
+        });
+
+        // Hide all first
+        articles.forEach(a => {
+            a.style.display = 'none';
+            a.classList.remove('visible');
+        });
+
+        if (matchingArticles.length === 0) {
+            emptyState.style.display = 'block';
+            loadMoreContainer.style.display = 'none';
+        } else {
+            emptyState.style.display = 'none';
+            
+            // Show only up to visibleCount
+            matchingArticles.slice(0, visibleCount).forEach(a => {
+                a.style.display = 'block';
+                setTimeout(() => a.classList.add('visible'), 10);
+            });
+
+            // Show/Hide Load More
+            if (matchingArticles.length > visibleCount) {
+                loadMoreContainer.style.display = 'block';
+            } else {
+                loadMoreContainer.style.display = 'none';
+            }
+        }
+
+        // Update Button States
+        buttons.forEach(btn => {
+            const f = decodeURIComponent(btn.getAttribute('data-filter'));
+            btn.classList.toggle('active', activeFilters.has(f));
+        });
+        
+        selectAllBtn.classList.toggle('active', activeFilters.size === buttons.length);
+    }
+
+    buttons.forEach(btn => {
+        btn.addEventListener('click', () => {
+            const filter = decodeURIComponent(btn.getAttribute('data-filter'));
+            if (activeFilters.has(filter)) {
+                activeFilters.delete(filter);
+            } else {
+                activeFilters.add(filter);
+            }
+            updateUI();
+        });
+    });
+
+    selectAllBtn.addEventListener('click', () => {
+        buttons.forEach(b => activeFilters.add(decodeURIComponent(b.getAttribute('data-filter'))));
+        updateUI();
+    });
+
+    deselectAllBtn.addEventListener('click', () => {
+        activeFilters.clear();
+        updateUI();
+    });
+
+    loadMoreBtn.addEventListener('click', () => {
+        visibleCount += 10;
+        updateUI();
+    });
+
+    // Initial Load
+    updateUI();
+});
+</script>
+
+<style>
+/* Layout de Listado con Sidebar */
+.list-container {
+    display: grid;
+    grid-template-columns: 180px 1fr;
+    gap: 3.5rem;
+    align-items: stretch; /* Crítico para que el sticky funcione */
+    margin-top: 2rem;
+}
+
+.sidebar-left {
+    min-width: 0;
+}
+
+.main-content {
+    min-width: 0;
+}
+
+.filter-sticky-wrapper {
+    position: sticky;
+    top: 100px; /* Debajo del header pegajoso */
+    z-index: 10;
+    padding-bottom: 2rem;
+}
+
+.filter-group.sidebar {
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+    padding-right: 1.5rem;
+    border-right: 1px solid var(--border);
+}
+
+.filter-btn {
+    padding: 0.6rem 0.8rem;
+    border-radius: 6px;
+    border: 1px solid var(--border);
+    background: var(--entry);
+    color: var(--primary);
+    cursor: pointer;
+    font-size: 0.85rem;
+    transition: all 0.2s ease;
+    text-align: left;
+    width: 100%;
+}
+
+.filter-btn:hover {
+    background: rgba(var(--primary-rgb), 0.05);
+    border-color: var(--hover-color, var(--secondary));
+    transform: translateX(4px);
+}
+
+.filter-btn.active {
+    background: var(--primary);
+    color: var(--theme);
+    border-color: var(--primary);
+    font-weight: 600;
+}
+
+.filter-btn.select-all {
+    margin-bottom: 0.5rem;
+    text-align: center;
+    background: transparent;
+    border-style: dashed;
+}
+
+.filter-btn.select-all.active {
+    border-style: solid;
+    background: var(--primary);
+}
+
+.filter-btn.deselect-all {
+    border: none;
+    background: transparent;
+    text-decoration: underline;
+    text-underline-offset: 4px;
+}
+
+article.post-entry {
+    opacity: 0;
+    transform: translateY(10px);
+    transition: opacity 0.4s ease, transform 0.4s ease;
+}
+
+article.post-entry.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* Responsividad */
+@media screen and (max-width: 900px) {
+    .list-container {
+        display: block;
+    }
+    
+    .sidebar-left {
+        margin-bottom: 2rem;
+    }
+    
+    .filter-group.sidebar {
+        flex-direction: row;
+        overflow-x: auto;
+        padding-bottom: 1rem;
+        border-right: none;
+        border-bottom: 1px solid var(--border);
+        white-space: nowrap;
+        scrollbar-width: none;
+    }
+    
+    .filter-group.sidebar::-webkit-scrollbar {
+        display: none;
+    }
+    
+    .filter-btn {
+        width: auto;
+    }
+    
+    .filter-sticky-wrapper {
+        position: relative;
+        top: 0;
+    }
+}
+</style>

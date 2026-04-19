@@ -5,6 +5,7 @@ date = 2024-10-25T15:00:00-04:00
 draft = false
 cover.image = "img/2024-10-24-contratacion-uasd.md.jpg" 
 tags = ["UASD", "Excelencia Académica", "Educación Superior", "Endogamia académica", "Docencia", "Investigación", "Concurso de Oposición"]
+categories = ["Gestión Educativa"]
 +++
 La Universidad Autónoma de Santo Domingo (UASD) es la principal institución de educación superior de la República Dominicana, en la que asisten miles de estudiantes para formarse como profesionales a partir de una dedicada plantilla de profesores. En esta oportunidad vamos a dar una mirada a un tema que es igual de fundamental que de complejo: la selección y contratación del personal académico. Este procedimiento, aunque riguroso y lleno de controles, no está exento de problemas prácticos y de visión que pueden limitar el desarrollo integral de la institución. ¿Es posible que un sistema diseñado para asegurar la calidad educativa también esté inhibiendo la innovación y la flexibilidad? En este artículo, exploramos los desafíos inherentes al procedimiento actual y propondremos mejoras que podrían transformar el futuro de la UASD.
 

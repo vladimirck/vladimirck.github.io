@@ -5,6 +5,7 @@ date = 2024-10-20T18:00:00-04:00
 draft = false
 cover.image = "img/2024-10-20-enseñar-15-crédito.jpg" 
 tags = ['Profesor', "Créditos Académicos", 'Universidad', 'Excelencia Académica', 'Calidad Educativa']
+categories = ["Gestión Educativa"]
 +++
 
 Esta es una conversación entre un estudiante doctoral y su supervisor de tesis, en donde el estudiante está indagando sobre cómo funciona la universidad donde está realizando su doctorado.

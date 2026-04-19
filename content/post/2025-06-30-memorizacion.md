@@ -5,6 +5,7 @@ date = 2025-06-30T20:20:41-04:00
 draft = false
 cover.image = "img/2025-06-30-memorizacion.jpg" 
 tags = ["Enseñanza de la Física", "Comprensión Conceptual", "Tabla de Fórmulas", "Carga Cognitiva", "Resolución de Problemas", "Calidad Educativa"]
+categories = ["Educación"]
 +++
 
 He notado una persistente división filosófica entre los profesores de física respecto a permitir que los estudiantes usen tablas de fórmulas durante las evaluaciones escritas. Me cuento entre los profesores que, en la mayoría de los casos, no permiten ningún material de apoyo de ese tipo. Este artículo busca argumentar mi posición, no como un mero capricho pedagógico, sino como una decisión fundamentada en cómo se construye el verdadero dominio de la física.

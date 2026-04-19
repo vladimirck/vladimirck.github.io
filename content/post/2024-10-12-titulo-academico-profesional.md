@@ -5,6 +5,7 @@ date = 2024-10-12T15:00:00-04:00
 draft = false
 cover.image = "img/2024-10-12-titulo-academico-profesional.jpg" 
 tags = ['Títulos Académicos', 'Títulos Profesionales', 'Educación Superior', 'Licenciatura', 'Ingeniería', 'Química', 'CODIA', 'MESCyT']
+categories = ["Gestión Educativa"]
 +++
 
 En la actualidad, existe una confusión significativa entre títulos académicos y profesionales que no solo afecta la percepción pública sobre las competencias de los profesionales, sino que también frena el avance de nuestra sociedad. En este artículo, exploraremos las diferencias fundamentales entre títulos académicos y profesionales, analizaremos los problemas que surgen de la confusión entre éstos títulos en el marco regulatorio y propondremos soluciones para establecer un sistema más claro y estructurado.

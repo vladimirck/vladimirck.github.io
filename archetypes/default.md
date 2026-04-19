@@ -2,6 +2,17 @@
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 date = {{ .Date }}
 draft = true
-image = "" 
+summary = "Resumen del artículo..."
+categories = []
 tags = []
+showToc = true
 +++
+
+## Introducción
+[Texto introductorio]
+
+## Desarrollo
+[Cuerpo del artículo]
+
+## Conclusión
+[Reflexiones finales]
