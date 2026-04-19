@@ -1,0 +1,81 @@
+/* Floating Table of Contents for Desktop */
+@media screen and (min-width: 1280px) {
+    .toc {
+        position: fixed;
+        right: 20px;
+        top: 15%;
+        width: 280px;
+        max-height: 70vh;
+        overflow-y: auto;
+        background: var(--theme);
+        padding: 1.5rem;
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+        transition: all 0.3s ease;
+        z-index: 100;
+        margin-top: 0 !important;
+        margin-bottom: 0 !important;
+    }
+
+    /* Keep the TOC always open on desktop */
+    .toc[open] {
+        border-color: var(--primary);
+    }
+    
+    .toc summary {
+        font-weight: 600;
+        font-size: 1.1rem;
+        margin-bottom: 0.5rem;
+        color: var(--primary);
+        cursor: default;
+        list-style: none; /* remove arrow */
+    }
+
+    .toc summary::-webkit-details-marker {
+        display: none;
+    }
+    
+    .toc .inner ul {
+        margin-left: 0;
+        padding-left: 1rem;
+        border-left: 1px solid var(--border);
+    }
+
+    .toc .inner li {
+        margin-bottom: 0.5rem;
+        font-size: 0.9rem;
+    }
+
+    .toc .inner a {
+        color: var(--secondary);
+        transition: color 0.2s;
+    }
+
+    .toc .inner a:hover {
+        color: var(--primary);
+        text-decoration: underline;
+    }
+
+    /* Subtle scrollbar for the ToC */
+    .toc::-webkit-scrollbar {
+        width: 4px;
+    }
+    .toc::-webkit-scrollbar-track {
+        background: transparent;
+    }
+    .toc::-webkit-scrollbar-thumb {
+        background: var(--border);
+        border-radius: 10px;
+    }
+}
+
+/* On medium screens, keep it at top but styled nicely */
+@media screen and (max-width: 1279px) {
+    .toc {
+        margin: 2rem 0;
+        border: 1px solid var(--border);
+        background: var(--code-bg);
+        border-radius: 8px;
+    }
+}

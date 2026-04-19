@@ -32,7 +32,7 @@ googleAnalytics = "G-1RKT2C1BY5"
     comments = false
     hidemenu = false
     showtoc = true
-    tocopen = false
+    tocopen = true
 
     [Params.label]
         text = "Multiverso Académico"
