@@ -16,7 +16,7 @@ tags:
   ]
 ---
 
-La mecánica de fluidos parece ser una de esas áreas de la física descuidada por los propios físicos. A menudo, en los programas de grado de la carrera, esta disciplina crucial ni siquiera figura como optativa, quedando relegada casi exclusivamente a las facultades de ingeniería.
+La mecánica de fluidos parece ser una de esas áreas de la física descuidada por los propios físicos. A menudo, en los programas de grado de la carrera, esta disciplina crucial ni siquiera figura como optativa, quedando relegada casi exclusivamente a las facultades de ingenierías.
 
 Sin embargo, el verdadero problema no es solo su omisión, sino cómo se presenta cuando _sí_ se enseña. A nivel de física general, los estudiantes son introducidos a un concepto que, aunque bien intencionado, siembra una confusión fundamental desde el primer día.
 

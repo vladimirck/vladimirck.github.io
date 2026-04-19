@@ -1,0 +1,33 @@
+.footer-disclaimer {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    border-top: 1px solid var(--border);
+    font-size: 0.85rem;
+    line-height: 1.6;
+    color: var(--secondary);
+    text-align: center;
+}
+
+.footer-disclaimer p {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.footer-disclaimer strong {
+    color: var(--primary);
+}
+
+/* Perfil */
+.profile-slogan {
+    font-size: 1.3rem;
+    font-style: italic;
+    margin-bottom: 2.5rem; /* Espacio generoso entre slogan y descripción */
+    color: var(--primary);
+}
+
+.profile-description {
+    line-height: 1.8;
+    text-align: justify;
+    padding: 0 1rem;
+    color: var(--secondary);
+}

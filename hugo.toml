@@ -36,6 +36,13 @@ googleAnalytics = "G-1RKT2C1BY5"
     showtoc = true
     tocopen = true
 
+    [Params.assets]
+        favicon = "img/logo.png"
+        favicon16x16 = "img/logo.png"
+        favicon32x32 = "img/logo.png"
+        apple_touch_icon = "img/logo.png"
+        safari_pinned_tab = "img/logo.png"
+
     [Params.label]
         text = "Multiverso Académico"
         icon = "img/logo.png"
@@ -44,7 +51,7 @@ googleAnalytics = "G-1RKT2C1BY5"
     [Params.profileMode]
         enabled = true # needs to be true for the card-like home page
         title = "Multiverso Académico"
-        subtitle = "Reflexiones sobre Ciencia, Educación y Gestión Universitaria"
+        subtitle = "<div class='profile-slogan'>Reflexiones sobre Ciencia, Educación y Gestión Universitaria</div><div class='profile-description'><strong>¡Bienvenidos a Multiverso Académico!</strong> Este blog es un espacio dedicado a la reflexión y el análisis sobre Ciencia, Tecnología, Educación y Gestión Universitaria. Aquí encontrarás artículos que exploran ideas innovadoras y prácticas actuales en investigación científica, políticas educativas y administración académica. Esperamos que disfrutes de la lectura y te unas a las discusiones, contribuyendo con tus propias perspectivas y experiencias.</div>"
         imageUrl = "img/logo.png"
         imageWidth = 120
         imageHeight = 120
@@ -57,8 +64,8 @@ googleAnalytics = "G-1RKT2C1BY5"
             url = "page/about/"
 
     [Params.homeInfoParams]
-        Title = "Hola \U0001F44B"
-        Content = "Bienvido a mi espacio de reflexiones. Aquí encontrarás artículos sobre la Universidad Autónoma de Santo Domingo (UASD), ciencia y pedagogía."
+        Title = ""
+        Content = ""
 
     [[Params.socialIcons]]
         name = "twitter"
