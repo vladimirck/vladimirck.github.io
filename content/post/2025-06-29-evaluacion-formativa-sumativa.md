@@ -61,7 +61,7 @@ La construcción de un sistema de evaluación justo, transparente y que realment
     La diferencia fundamental entre ambos tipos de evaluación es su objetivo (practicar vs. certificar), no necesariamente su formato. Por ello, es crucial que el diseño de las **evaluaciones formativas refleje el formato y el nivel de exigencia de las sumativas**. Si la prueba final es un estudio de caso, las actividades formativas deben ser mini-estudios de caso. Esta coherencia elimina el factor sorpresa y la seria desventaja de enfrentar un formato desconocido. Así, la evaluación sumativa se convierte en la culminación lógica de un proceso de práctica deliberada, no en un obstáculo impredecible.
 
 
-### **Referencias**
+## **Referencias**
 
 - Black, P., & Wiliam, D. (1998). _Inside the Black Box: Raising Standards Through Classroom Assessment_.
 - Marzano, R. J. (2006). _Classroom assessment & grading that work_. Association for Supervision and Curriculum Development (ASCD).
