@@ -142,7 +142,8 @@
     margin: 0;
 }
 
-.menu-item-dropdown:hover .submenu {
+.menu-item-dropdown:hover .submenu,
+.menu-item-dropdown.is-open .submenu {
     display: block;
     animation: fadeIn 0.2s ease-out;
 }
