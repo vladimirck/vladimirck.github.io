@@ -28,10 +28,10 @@ googleAnalytics = "G-1RKT2C1BY5"
     author = "Vladimir Pérez"
     # Pilares Temáticos (Centralizado)
     mainCategories = [
-        { name = "Gestión", slug = "gestión-educativa", color = "#3498db", icon = "balance", desc = "Políticas y administración." },
-        { name = "Educación", slug = "educación", color = "#9b59b6", icon = "book", desc = "Teoría y didáctica." },
-        { name = "C&T", slug = "ciencia-y-tecnología", color = "#2ecc71", icon = "atom", desc = "Avances y conceptos." },
-        { name = "Policy", slug = "policy-briefs", color = "#f1c40f", icon = "document", desc = "Análisis de impacto." }
+        { name = "Gestión y Educación Superior", slug = "gestión-educativa", color = "#3498db", icon = "balance", desc = "Políticas y administración." },
+        { name = "Educación Científica", slug = "educación", color = "#9b59b6", icon = "book", desc = "Teoría y didáctica." },
+        { name = "Ciencia y Tecnología", slug = "ciencia-y-tecnología", color = "#2ecc71", icon = "atom", desc = "Avances y conceptos." },
+        { name = "Breves Propuestas de Políticas Educativas", slug = "policy-briefs", color = "#f1c40f", icon = "document", desc = "Análisis de impacto." }
     ]
     # Estética
     defaultTheme = "auto" # dark, light, auto
@@ -116,19 +116,19 @@ googleAnalytics = "G-1RKT2C1BY5"
     [[menu.main]]
         parent = "themes"
         identifier = "gestión-educativa"
-        name = "Gestión"
+        name = "Gestión y Educación Superior"
         url = "/categories/gestión-educativa/"
         weight = 11
     [[menu.main]]
         parent = "themes"
         identifier = "educación"
-        name = "Educación"
+        name = "Educación Científica"
         url = "/categories/educación/"
         weight = 12
     [[menu.main]]
         parent = "themes"
         identifier = "ciencia-y-tecnología"
-        name = "C&T"
+        name = "Ciencia y Tecnología"
         url = "/categories/ciencia-y-tecnología/"
         weight = 13
     [[menu.main]]

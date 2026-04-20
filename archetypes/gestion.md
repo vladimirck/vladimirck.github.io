@@ -3,8 +3,8 @@ title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 date = {{ .Date }}
 draft = true
 summary = "Resumen breve del análisis de gestión..."
-categories = ["Gestión Educativa"]
-tags = []
+categories = ["Gestión y Educación Superior"]
+tags = ["gestión"]
 showToc = true
 # cover:
 #     image: ""

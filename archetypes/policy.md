@@ -3,7 +3,7 @@ title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 date = {{ .Date }}
 draft = true
 summary = "Resumen ejecutivo del Policy Brief..."
-categories = ["Policy Briefs"]
+categories = ["Breves Propuestas de Políticas Educativas"]
 tags = ["policy-brief"]
 showToc = true
 +++

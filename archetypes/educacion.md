@@ -3,8 +3,8 @@ title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 date = {{ .Date }}
 draft = true
 summary = "Resumen de la reflexión pedagógica o didáctica..."
-categories = ["Educación"]
-tags = []
+categories = ["Educación Científica"]
+tags = ["educación"]
 showToc = true
 +++
 
