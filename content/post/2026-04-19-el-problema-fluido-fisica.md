@@ -3,8 +3,7 @@ title: "El espejismo del fluido ideal: ¿una simplificación útil o un obstácu
 subtitle: Cuando la simplificación nos aleja de la realidad
 date: 2026-04-19T00:00:00-04:00
 draft: false
-cover:
-  image: "/img/2026-04-19-el-problema-fluido-fisica.jpg"
+cover: "/img/2026-04-19-el-problema-fluido-fisica.jpg"
 tags:
   [
     "Mecánica de Fluidos",
@@ -17,6 +16,7 @@ tags:
   ]
 categories: ["Educación"]
 math: true
+nocite: [babinsky2003, munson2006]
 ---
 
 La mecánica de fluidos es una de las áreas de la física más descuidadas por los propios físicos. En muchos programas de grado, esta disciplina ni siquiera figura como optativa, quedando relegada casi exclusivamente a las facultades de ingeniería.
@@ -62,11 +62,11 @@ Este hecho subraya un punto importante: en las condiciones de cualquier laborato
 
 Si el modelo del fluido ideal fuese simplemente una aproximación imperfecta, podríamos tolerarlo. Pero su mayor debilidad quedó expuesta hace casi tres siglos, y rara vez se menciona en los cursos introductorios.
 
-En 1752, el matemático Jean le Rond d'Alembert demostró un resultado devastador: si un cuerpo se mueve a rapidez constante a través de un fluido ideal (incompresible y sin viscosidad), la **resistencia total que experimenta es exactamente cero**. Las presiones en la parte frontal del cuerpo se compensan perfectamente con las de la parte trasera.
+En 1752, el matemático Jean le Rond d'Alembert demostró un resultado devastador: si un cuerpo se mueve a rapidez constante a través de un fluido ideal (incompresible y sin viscosidad), la **resistencia total que experimenta es exactamente cero** [@dalembert1752]. Las presiones en la parte frontal del cuerpo se compensan perfectamente con las de la parte trasera.
 
 Este resultado se conoce como la **paradoja de d'Alembert**, y contradice espectacularmente la experiencia cotidiana. Cualquier persona que haya caminado contra el viento, nadado en una piscina o simplemente pateado un balón sabe que los fluidos oponen resistencia al movimiento. Sin embargo, el modelo que enseñamos en física general predice que esa resistencia no existe.
 
-La resolución de esta paradoja tuvo que esperar 150 años. En 1904, Ludwig Prandtl introdujo el concepto de **capa límite**: una región delgada junto a la superficie del cuerpo donde, sin importar cuán pequeña sea la viscosidad, los efectos viscosos son dominantes. Es en esta capa donde se genera la fricción y donde el flujo puede separarse de la superficie, creando la diferencia de presiones que produce la resistencia real. El resultado de Prandtl demostró algo profundo: un fluido con viscosidad infinitesimalmente pequeña ($\mu \to 0$) se comporta de manera cualitativamente diferente a un fluido con viscosidad exactamente cero ($\mu = 0$).
+La resolución de esta paradoja tuvo que esperar 150 años. En 1904, Ludwig Prandtl introdujo el concepto de **capa límite**: una región delgada junto a la superficie del cuerpo donde, sin importar cuán pequeña sea la viscosidad, los efectos viscosos son dominantes. Es en esta capa donde se genera la fricción y donde el flujo puede separarse de la superficie, creando la diferencia de presiones que produce la resistencia real. El resultado de Prandtl demostró algo profundo: un fluido con viscosidad infinitesimalmente pequeña ($\mu \to 0$) se comporta de manera cualitativamente diferente a un fluido con viscosidad exactamente cero ($\mu = 0$) [@prandtl1904].
 
 **Y aquí está la cuestión pedagógica central:** si el modelo del fluido ideal ni siquiera puede predecir que un objeto experimenta resistencia al moverse a través de un fluido, ¿qué clase de intuición física está construyendo en los estudiantes?
 
@@ -135,13 +135,3 @@ Lo mismo ocurre al estudiar el flujo en un **tubo cilíndrico**: la rapidez en e
 Y quizás lo más revelador: el modelo ideal predice que una esfera moviéndose a rapidez constante a través de un fluido no experimenta _ninguna_ resistencia —la paradoja de d'Alembert—. En el laboratorio, hasta el objeto más aerodinámico desacelera. No existe un fallo pedagógico más claro que enseñar un modelo que contradice la experiencia más elemental de los estudiantes.
 
 Es preferible presentar modelos simplificados que sean _coherentes_ con la observación —incluso si la solución matemática completa queda para cursos avanzados— que enseñar un modelo cuyos resultados contradicen los fenómenos que los estudiantes pueden verificar con sus propias manos.
-
-## Referencias
-
-* Babinsky, H. (2003). How do wings work? *Physics Education*, 38(6), 497. https://doi.org/10.1088/0031-9120/38/6/001
-
-* d'Alembert, J. le R. (1752). *Essai d'une nouvelle théorie de la résistance des fluides*. David l'aîné.
-
-* Prandtl, L. (1904). Über Flüssigkeitsbewegung bei sehr kleiner Reibung. En *Verhandlungen des dritten internationalen Mathematiker-Kongresses* (pp. 484–491). Heidelberg.
-
-* Munson, B. R., Young, D. F., & Okiishi, T. H. (2006). *Fundamentals of Fluid Mechanics* (5.ª ed.). John Wiley & Sons.

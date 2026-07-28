@@ -1,12 +1,12 @@
-+++
-title = 'Estándares de Créditos Académicos'
-subtitle = "Comparación Internacional y Ajustes Necesarios en la República Dominicana"
-date = 2024-06-17
-draft = false
-cover.image = "img/2024-06-17-Estándares-de-Créditos-Académicos.jpg" 
-tags = ["Créditos Académicos", "Educación Superior", "Estándares Internacionales", "MESCyT", "Calidad Educativa" ]
-categories = ["Gestión Educativa"]
-+++
+---
+title: "Estándares de Créditos Académicos"
+subtitle: "Comparación Internacional y Ajustes Necesarios en la República Dominicana"
+date: 2024-06-17
+draft: false
+cover: "/img/2024-06-17-Estándares-de-Créditos-Académicos.jpg"
+tags: ["Créditos Académicos", "Educación Superior", "Estándares Internacionales", "MESCyT", "Calidad Educativa"]
+categories: ["Gestión Educativa"]
+---
 
 El término **crédito académico** se refiere a la medición del tiempo dedicado al aprendizaje esperado en una materia específica. Sin embargo, la interpretación y aplicación de este concepto pueden variar considerablemente entre diferentes autoridades educativas y regiones geográficas.
 

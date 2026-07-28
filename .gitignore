@@ -1,7 +1,5 @@
 public/
+.bin/
 lighthouse_report.html
 lighthouse_report.json
 lighthouse_report.md
-
-
-

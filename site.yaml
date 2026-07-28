@@ -1,0 +1,68 @@
+baseURL: "https://multiverso.do"
+idioma: "es-do"
+titulo: "Multiverso Académico"
+descripcion: "Reflexiones sobre Ciencia, Educación y Gestión Universitaria"
+autor: "Vladimir Pérez"
+palabrasClave: [UASD, Ciencia, Educación, Gestión Universitaria, Física]
+googleAnalytics: "G-1RKT2C1BY5"
+logo: "/img/logo.png"
+
+categoriasPrincipales:
+  - nombre: "Gestión y Educación Superior"
+    slug: "gestión-educativa"
+    color: "#3498db"
+    icono: "balance"
+    desc: "Políticas y administración."
+  - nombre: "Educación Científica"
+    slug: "educación"
+    color: "#9b59b6"
+    icono: "book"
+    desc: "Teoría y didáctica."
+  - nombre: "Ciencia y Tecnología"
+    slug: "ciencia-y-tecnología"
+    color: "#2ecc71"
+    icono: "atom"
+    desc: "Avances y conceptos."
+  - nombre: "Breves Propuestas de Políticas Educativas"
+    slug: "policy-briefs"
+    color: "#f1c40f"
+    icono: "document"
+    desc: "Análisis de impacto."
+
+menu:
+  - nombre: "Temas"
+    tipo: dropdown-categorias
+  - nombre: "Archivo"
+    url: "/archives/"
+  - nombre: "Sobre mí"
+    url: "/page/about/"
+
+redes:
+  - nombre: twitter
+    url: "https://twitter.com/vladimirck"
+  - nombre: github
+    url: "https://github.com/vladimirck"
+  - nombre: linkedin
+    url: "https://www.linkedin.com/in/vladimir-p%C3%A9rez-veloz/"
+
+avisoLegal: >-
+  Las opiniones expresadas en este sitio web son exclusivamente mías y no
+  representan necesariamente los puntos de vista de la Universidad Autónoma
+  de Santo Domingo (UASD), de la Facultad de Ciencias, ni del Instituto de
+  Física. Los comentarios y reflexiones aquí publicados son fruto de mis
+  experiencias personales y profesionales, y tienen como objetivo fomentar
+  el diálogo y la reflexión sobre temas de ciencia, educación y gestión
+  universitaria.
+
+portada:
+  titulo: "Multiverso Académico"
+  eslogan: "Reflexiones sobre Ciencia, Educación y Gestión Universitaria"
+  descripcion: >-
+    Explorando ideas innovadoras en investigación científica, políticas
+    educativas y administración académica. Únete a la discusión y comparte
+    tus perspectivas.
+  botones:
+    - nombre: "Explorar Artículos"
+      url: "/post/"
+    - nombre: "Sobre este blog"
+      url: "/page/about/"

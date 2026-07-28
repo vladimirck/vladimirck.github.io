@@ -1,17 +1,17 @@
-+++
-title = 'Evaluación Formativa vs. Sumativa'
-date = 2025-06-29T20:00:00-04:00
-draft = false
-cover.image = "img/2025-06-29-evaluacion-formativa-sumativa.jpg" 
-tags = ["Evaluación formativa","Evaluación sumativa", "Evaluación del aprendizaje", "Plan de evaluación", "Calidad Educativa"]
-categories = ["Educación"]
-+++
+---
+title: "Evaluación Formativa vs. Sumativa"
+date: 2025-06-29T20:00:00-04:00
+draft: false
+cover: "/img/2025-06-29-evaluacion-formativa-sumativa.jpg"
+tags: ["Evaluación formativa", "Evaluación sumativa", "Evaluación del aprendizaje", "Plan de evaluación", "Calidad Educativa"]
+categories: ["Educación"]
+---
 
 Un plan de evaluación eficaz debe responder a preguntas cruciales: ¿estamos midiendo el *aprendizaje* o solo el *esfuerzo*? ¿Nuestras pruebas son herramientas de práctica y ensayo o veredictos finales que deciden la aprobación de un curso? Esta distinción, clave para el uso de evaluaciones formativas y sumativas, a menudo se desvirtúa en la práctica docente, generando sistemas de calificación que no reflejan con fidelidad el dominio real de los estudiantes. Para abordar este desafío, a continuación se desglosarán las funciones específicas de cada tipo de evaluación y se presentará un modelo con tres principios para diseñar un plan evaluativo coherente que fomente el aprendizaje y lo certifique con validez.
 
 ## **Las Evaluaciones Formativas: El Motor del Aprendizaje**
 
-Las **evaluaciones formativas** son aquellas cuyo objetivo fundamental es apoyar el proceso de enseñanza y aprendizaje; de ahí el término «formativas». Su propósito no es calificar para aprobar o reprobar, sino guiar. Por esta razón, la característica principal de estas evaluaciones es **la retroalimentación**.
+Las **evaluaciones formativas** son aquellas cuyo objetivo fundamental es apoyar el proceso de enseñanza y aprendizaje; de ahí el término «formativas». Su propósito no es calificar para aprobar o reprobar, sino guiar. Por esta razón, la característica principal de estas evaluaciones es **la retroalimentación** [@black1998].
 
 Lo que el estudiante debe recibir por parte del docente en una evaluación formativa es una **retroalimentación detallada** que le ayude a comprender las ideas, conceptos y teorías evaluadas. Un ejemplo clásico de evaluación formativa es la entrega de un borrador de un proyecto. El docente lo revisa y ofrece comentarios detallados para que el estudiante lo mejore, sin que esta primera entrega tenga un peso significativo en la calificación del proyecto en su forma final.
 
@@ -48,7 +48,7 @@ Asimismo, es necesario examinar el rol de la puntuación en las evaluaciones for
 La construcción de un sistema de evaluación justo, transparente y que realmente fomente el aprendizaje requiere la consideración de tres principios clave: **Ponderación, Frecuencia y Alineación.**
 
 1.  **Principio de Ponderación: Asignar a cada evaluación su justo valor.**
-    Un pilar fundamental es asignar el peso mayoritario a la certificación del aprendizaje. Como guía general, las **evaluaciones sumativas** suelen constituir entre el **60% y el 80%** de la calificación final. El 20-40% restante, asignado a las **evaluaciones formativas**, cumple una función estratégica: incentivar la participación y valorar el proceso, sin penalizar el error en la etapa de aprendizaje. Así, la calificación final refleja con fidelidad el dominio de las competencias alcanzadas.
+    Un pilar fundamental es asignar el peso mayoritario a la certificación del aprendizaje. Como guía general, las **evaluaciones sumativas** suelen constituir entre el **60% y el 80%** de la calificación final. El 20-40% restante, asignado a las **evaluaciones formativas**, cumple una función estratégica: incentivar la participación y valorar el proceso, sin penalizar el error en la etapa de aprendizaje. Así, la calificación final refleja con fidelidad el dominio de las competencias alcanzadas [@marzano2006].
 
     Este principio se refleja en las normativas de muchas instituciones. En el contexto de la **Universidad Autónoma de Santo Domingo (UASD)**, por ejemplo, los artículos 68 y 69 de su [Reglamento de Rendimiento Estudiantil](https://uasd.edu.do/wp-content/uploads/2022/11/rendimiento_academico_estudiantil_0.pdf) especifican los siguientes topes para la evaluación sumativa:
     * Las evaluaciones parciales tienen un valor máximo del 40%.
@@ -58,11 +58,4 @@ La construcción de un sistema de evaluación justo, transparente y que realment
     Se recomienda implementar **múltiples y variadas evaluaciones formativas** a lo largo del curso. Un estudiante no debería llegar a una evaluación sumativa de alto impacto sin antes haber recibido retroalimentación sobre su desempeño. Cada evaluación formativa es una oportunidad invaluable para que el estudiante comprenda los criterios con los que se le valora y corrija su rumbo en un entorno de bajo riesgo. Esta exposición constante y guiada no solo profundiza el aprendizaje, sino que también reduce la ansiedad, convirtiendo la evaluación en una rutina constructiva y no en un evento temido.
 
 3.  **Principio de Alineación: Garantizar la coherencia entre la práctica y la evaluación final.**
-    La diferencia fundamental entre ambos tipos de evaluación es su objetivo (practicar vs. certificar), no necesariamente su formato. Por ello, es crucial que el diseño de las **evaluaciones formativas refleje el formato y el nivel de exigencia de las sumativas**. Si la prueba final es un estudio de caso, las actividades formativas deben ser mini-estudios de caso. Esta coherencia elimina el factor sorpresa y la seria desventaja de enfrentar un formato desconocido. Así, la evaluación sumativa se convierte en la culminación lógica de un proceso de práctica deliberada, no en un obstáculo impredecible.
-
-
-## **Referencias**
-
-- Black, P., & Wiliam, D. (1998). _Inside the Black Box: Raising Standards Through Classroom Assessment_.
-- Marzano, R. J. (2006). _Classroom assessment & grading that work_. Association for Supervision and Curriculum Development (ASCD).
-- Wiggins, G., & McTighe, J. (2005). _Understanding by Design_. Association for Supervision and Curriculum Development (ASCD).
+    La diferencia fundamental entre ambos tipos de evaluación es su objetivo (practicar vs. certificar), no necesariamente su formato [@wiggins2005]. Por ello, es crucial que el diseño de las **evaluaciones formativas refleje el formato y el nivel de exigencia de las sumativas**. Si la prueba final es un estudio de caso, las actividades formativas deben ser mini-estudios de caso. Esta coherencia elimina el factor sorpresa y la seria desventaja de enfrentar un formato desconocido. Así, la evaluación sumativa se convierte en la culminación lógica de un proceso de práctica deliberada, no en un obstáculo impredecible.

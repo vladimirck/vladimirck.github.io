@@ -1,0 +1,32 @@
+{
+  "10.1088/0031-9120/38/6/001": {
+    "doi": "10.1088/0031-9120/38/6/001",
+    "estado": "verificada",
+    "fecha": "2026-07-28",
+    "tituloRegistrado": "How do wings work?"
+  },
+  "10.1119/1.15129": {
+    "doi": "10.1119/1.15129",
+    "estado": "verificada",
+    "fecha": "2026-07-28",
+    "tituloRegistrado": "Toward a modeling theory of physics instruction"
+  },
+  "10.1207/s15326985ep4102_1": {
+    "doi": "10.1207/s15326985ep4102_1",
+    "estado": "verificada",
+    "fecha": "2026-07-28",
+    "tituloRegistrado": "Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching"
+  },
+  "10.1207/s15516709cog0502_2": {
+    "doi": "10.1207/s15516709cog0502_2",
+    "estado": "verificada",
+    "fecha": "2026-07-28",
+    "tituloRegistrado": "Categorization and Representation of Physics Problems by Experts and Novices*"
+  },
+  "10.1207/s15516709cog1202_4": {
+    "doi": "10.1207/s15516709cog1202_4",
+    "estado": "verificada",
+    "fecha": "2026-07-28",
+    "tituloRegistrado": "Cognitive Load During Problem Solving: Effects on Learning"
+  }
+}

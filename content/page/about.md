@@ -1,7 +1,6 @@
 ---
 title: Sobre Multiverso Académico y su Autor
 subtitle: Propósito de este blog y conoce al autor
-comments: false
 ---
 ### Sobre Multiverso Académico
 

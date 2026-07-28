@@ -1,0 +1,88 @@
+name: Compilar y desplegar el sitio
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (historial completo para «Última revisión»)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Leer versión pineada del motor
+        id: engine
+        run: echo "version=$(cat .multiverso-version)" >> "$GITHUB_OUTPUT"
+
+      - name: Caché del binario del motor
+        id: cache
+        uses: actions/cache@v4
+        with:
+          path: .bin
+          key: multiverso-${{ steps.engine.outputs.version }}-linux-amd64
+
+      - name: Descargar el motor desde la release
+        if: steps.cache.outputs.cache-hit != 'true'
+        env:
+          # PAT fine-grained con contents:read sobre multiverso-engine
+          # (el repo del motor es privado).
+          GH_TOKEN: ${{ secrets.ENGINE_REPO_TOKEN }}
+        run: |
+          mkdir -p .bin
+          gh release download "${{ steps.engine.outputs.version }}" \
+            --repo vladimirck/multiverso-engine \
+            --pattern '*linux_amd64.tar.gz' --pattern 'checksums.txt' \
+            --dir .bin
+          cd .bin
+          sha256sum --check --ignore-missing checksums.txt
+          tar -xzf multiverso_*_linux_amd64.tar.gz multiverso
+          rm -f multiverso_*_linux_amd64.tar.gz checksums.txt
+
+      - name: Configurar GitHub Pages
+        id: pages
+        uses: actions/configure-pages@v4
+
+      - name: Validar contenido y bibliografía
+        run: |
+          ./.bin/multiverso check --content .
+          ./.bin/multiverso verify --content . --offline-check
+
+      - name: Compilar el sitio
+        run: |
+          ./.bin/multiverso build --content . --out public \
+            --base-url "${{ steps.pages.outputs.base_url }}/"
+
+      - name: Verificar enlaces (informativo)
+        uses: lycheeverse/lychee-action@v1.9.0
+        with:
+          args: --verbose --no-progress './public/**/*.html'
+          fail: false
+
+      - name: Subir artefacto
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Desplegar a GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

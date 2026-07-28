@@ -1,12 +1,13 @@
-+++
-title = '¿Tablas de fórmulas durante las evaluaciones? Por qué menos apoyo puede significar más aprendizaje en Física'
-subtitle = "Un camino hacia la autonomía y el pensamiento crítico en la resolución de problemas"
-date = 2025-06-30T20:20:41-04:00
-draft = false
-cover.image = "img/2025-06-30-memorizacion.jpg" 
-tags = ["Enseñanza de la Física", "Comprensión Conceptual", "Tabla de Fórmulas", "Carga Cognitiva", "Resolución de Problemas", "Calidad Educativa"]
-categories = ["Educación"]
-+++
+---
+title: "¿Tablas de fórmulas durante las evaluaciones? Por qué menos apoyo puede significar más aprendizaje en Física"
+subtitle: "Un camino hacia la autonomía y el pensamiento crítico en la resolución de problemas"
+date: 2025-06-30T20:20:41-04:00
+draft: false
+cover: "/img/2025-06-30-memorizacion.jpg"
+tags: ["Enseñanza de la Física", "Comprensión Conceptual", "Tabla de Fórmulas", "Carga Cognitiva", "Resolución de Problemas", "Calidad Educativa"]
+categories: ["Educación"]
+nocite: [kirschner2006, hestenes1987, arons1997]
+---
 
 He notado una persistente división filosófica entre los profesores de física respecto a permitir que los estudiantes usen tablas de fórmulas durante las evaluaciones escritas. Me cuento entre los profesores que, en la mayoría de los casos, no permiten ningún material de apoyo de ese tipo. Este artículo busca argumentar mi posición, no como un mero capricho pedagógico, sino como una decisión fundamentada en cómo se construye el verdadero dominio de la física.
 
@@ -45,11 +46,11 @@ Dar la lista de fórmulas a estudiantes de cursos introductorios es contraproduc
 
 Independientemente de la intención del docente, el estudiante recibe un mensaje mucho más pragmático. Aprende que, como las fórmulas están dadas, la tarea consiste en identificar patrones superficiales en los problemas para decidir cuál aplicar. Esta práctica fomenta una comprensión frágil, similar a la que criticaba el físico Richard Feynman: saber el nombre de una fórmula no es lo mismo que entender el fenómeno que describe.
 
-Mi observación anecdótica de que los estudiantes *estudian menos* cuando tienen material de apoyo es consistente con el concepto de *dificultades deseables* en la ciencia cognitiva. Este principio postula que al introducir ciertos obstáculos durante el aprendizaje (como la necesidad de recordar una fórmula), se promueve un esfuerzo mental que, aunque aumenta la dificultad a corto plazo, fortalece drásticamente la retención y la capacidad de transferencia del conocimiento a largo plazo.
+Mi observación anecdótica de que los estudiantes *estudian menos* cuando tienen material de apoyo es consistente con el concepto de *dificultades deseables* en la ciencia cognitiva [@bjork2011]. Este principio postula que al introducir ciertos obstáculos durante el aprendizaje (como la necesidad de recordar una fórmula), se promueve un esfuerzo mental que, aunque aumenta la dificultad a corto plazo, fortalece drásticamente la retención y la capacidad de transferencia del conocimiento a largo plazo.
 
-El efecto más perjudicial es la idea de que no se necesita tener información en la cabeza para poder pensar. Este es quizás el malentendido más profundo sobre el aprendizaje. El pensamiento crítico y analítico no opera en el vacío; *requiere de un cuerpo de conocimiento factual residente en la memoria a largo plazo*. Cuando la información fundamental no está internalizada, la *carga cognitiva* sobre la memoria de trabajo es inmensa. El estudiante gasta sus recursos mentales buscando la fórmula en un papel en lugar de usarlos para analizar el problema.
+El efecto más perjudicial es la idea de que no se necesita tener información en la cabeza para poder pensar. Este es quizás el malentendido más profundo sobre el aprendizaje. El pensamiento crítico y analítico no opera en el vacío; *requiere de un cuerpo de conocimiento factual residente en la memoria a largo plazo* [@willingham2009]. Cuando la información fundamental no está internalizada, la *carga cognitiva* sobre la memoria de trabajo es inmensa [@sweller1988]. El estudiante gasta sus recursos mentales buscando la fórmula en un papel en lugar de usarlos para analizar el problema.
 
-Esto nos lleva a la habilidad que diferencia a los expertos de los novatos: la construcción de *esquemas mentales* (o *schemas*) robustos. Un experto no tiene simplemente más fórmulas memorizadas; ha organizado su conocimiento en torno a principios fundamentales, permitiéndole acceder a la información correcta de manera fluida y flexible. Al dar las fórmulas, inhibimos el desarrollo de estos esquemas, manteniendo al estudiante en un perpetuo estado de novato.
+Esto nos lleva a la habilidad que diferencia a los expertos de los novatos: la construcción de *esquemas mentales* (o *schemas*) robustos [@chi1981]. Un experto no tiene simplemente más fórmulas memorizadas; ha organizado su conocimiento en torno a principios fundamentales, permitiéndole acceder a la información correcta de manera fluida y flexible. Al dar las fórmulas, inhibimos el desarrollo de estos esquemas, manteniendo al estudiante en un perpetuo estado de novato.
 
 ## **Consecuencias a Largo Plazo en el Desarrollo del Estudiante**
 
@@ -72,19 +73,3 @@ Argumentar en contra de las hojas de fórmulas no es abogar por la memorización
 * **3. La Evaluación como Herramienta para el Aprendizaje Profundo:** Diseñar evaluaciones formativas y sumativas que requieran explícitamente la deducción de fórmulas antes de su uso, colcando explícitamente su valoración en los instrumentos de evaluación. Las preguntas deben favorecer el «demuestre que...» o «a partir de los primeros principios, derive...» sobre el simple «calcule». Esto envía el mensaje inequívoco de que el proceso de razonamiento es, como mínimo, tan importante como la solución final.
 
 Al final, nuestro objetivo como educadores no debe ser solo que los estudiantes resuelvan los problemas que les ponemos, sino que construyan el andamiaje mental necesario para resolver los problemas que aún no hemos imaginado.
-
-### **Bibliografía**
-
-* Sweller, J. (1988). "Cognitive Load During Problem Solving: Effects on Learning". *Cognitive Science, 12*(2), 257-285. https://doi.org/10.1207/s15516709cog1202_4
-
-* Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). "Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching". *Educational Psychologist, 41*(2), 75-86. https://doi.org/10.1207/s15326985ep4102_1
-
-* Bjork, R. A., & Bjork, E. L. (2011). "Making Things Hard on Yourself, But in a Good Way: Creating Desirable Difficulties to Enhance Learning". En M. A. Gernsbacher, R. W. Pew, L. M. Hough, & J. R. Pomerantz (Eds.), *Psychology and the real world: Essays illustrating fundamental contributions to society* (pp. 56-64). Worth Publishers. https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf
-
-* Willingham, D. T. (2009). *Why Don't Students Like School? A Cognitive Scientist Answers Questions About How the Mind Works and What It Means for the Classroom*. Jossey-Bass. https://psycnet.apa.org/record/2009-03481-000
-
-* Chi, M. T. H., Feltovich, P. J., & Glaser, R. (1981). "Categorization and Representation of Physics Problems by Experts and Novices". *Cognitive Science, 5*(2), 121-152. https://onlinelibrary.wiley.com/doi/epdf/10.1207/s15516709cog0502_2
-
-* Hestenes, D. (1987). "Toward a modeling theory of physics instruction". *American Journal of Physics, 55*(5), 440-454. https://doi.org/10.1119/1.15129
-
-* Arons, A. B. (1997). *Teaching Introductory Physics*. John Wiley & Sons. https://www.wiley.com/en-us/Teaching+Introductory+Physics-p-9780471137078

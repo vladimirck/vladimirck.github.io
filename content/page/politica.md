@@ -1,7 +1,6 @@
 ---
 title: Política de Comentarios
 subtitle: ""
-comments: false
 ---
 ¡Bienvenidos a Multiverso Académico! Nos alegra que participes en las discusiones y aportes tus comentarios. Para asegurar un entorno respetuoso y constructivo, te pedimos que sigas estas normas al comentar en nuestro blog.
 
