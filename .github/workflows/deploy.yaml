@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout (historial completo para «Última revisión»)
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0
 
@@ -29,7 +29,7 @@ jobs:
 
       - name: Caché del binario del motor
         id: cache
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: .bin
           key: multiverso-${{ steps.engine.outputs.version }}-linux-amd64
@@ -53,7 +53,7 @@ jobs:
 
       - name: Configurar GitHub Pages
         id: pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v6
 
       - name: Validar contenido y bibliografía
         run: |
@@ -66,13 +66,13 @@ jobs:
             --base-url "${{ steps.pages.outputs.base_url }}/"
 
       - name: Verificar enlaces (informativo)
-        uses: lycheeverse/lychee-action@v1.9.0
+        uses: lycheeverse/lychee-action@v2
         with:
           args: --verbose --no-progress './public/**/*.html'
           fail: false
 
       - name: Subir artefacto
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: ./public
 
@@ -85,4 +85,4 @@ jobs:
     steps:
       - name: Desplegar a GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
